@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[CoderDojo東住吉]]></title><description><![CDATA[子どものプログラミング道場]]></description><link>https://coderdojo-higashi-sumiyoshi.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 17 Apr 2021 06:01:53 GMT</lastBuildDate><item><title><![CDATA[Discordの始め方]]></title><description><![CDATA[オンライン開催の時はDiscordを使います。Discordを使うとオンラインで質問や発表が出来ます。 このページではDiscordの始め方を説明します。 1. ソフトウェアのインストール  Discord…]]></description><link>https://coderdojo-higashi-sumiyoshi.github.io/2021-04-16_how_to_discord/</link><guid isPermaLink="false">https://coderdojo-higashi-sumiyoshi.github.io/2021-04-16_how_to_discord/</guid><pubDate>Fri, 16 Apr 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;オンライン開催の時は&lt;a href=&quot;https://discord.com&quot;&gt;Discord&lt;/a&gt;を使います。Discordを使うとオンラインで質問や発表が出来ます。&lt;/p&gt;
+&lt;p&gt;このページではDiscordの始め方を説明します。&lt;/p&gt;
+&lt;h1&gt;1. ソフトウェアのインストール&lt;/h1&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 11.486486486486488%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAACCAYAAABYBvyLAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAkElEQVQI13XMuw7BYABA4T6TsKhUUv4YaKyuSYPVu3gLfQib2VJFeqElZXEpioU4ym74kjMdaTR54m/vTN0zMy/CtA9Y7gk7iHHWN4LdAyd80x/sSatd1HIbtaKTEw1kUUcptRDVHilZI98cIo3NF354ZbG6MF9GWN4x6Qh3Eyf+D7PF2s93XNA6ZBQNoRt8AFiMcUODZda0AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;client&quot;
+        title=&quot;client&quot;
+        src=&quot;/static/63fc3e3e9e4ca5a1e65e18aae4cbcbe2/fcda8/client.png&quot;
+        srcset=&quot;/static/63fc3e3e9e4ca5a1e65e18aae4cbcbe2/12f09/client.png 148w,
+/static/63fc3e3e9e4ca5a1e65e18aae4cbcbe2/e4a3f/client.png 295w,
+/static/63fc3e3e9e4ca5a1e65e18aae4cbcbe2/fcda8/client.png 590w,
+/static/63fc3e3e9e4ca5a1e65e18aae4cbcbe2/ace37/client.png 666w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://discord.com&quot;&gt;Discord&lt;/a&gt;のサイトへアクセスすると上記のようなボタンがあるので、お好きな方を選んで下さい。&lt;/p&gt;
+&lt;p&gt;このページを見てるブラウザ(Chrome, Edge, SafariならOK)のままでも使えますが、インストールすると少しだけ使いやすくなります。利用頻度や必要に応じて選んで頂ければ良いと思います。&lt;/p&gt;
+&lt;p&gt;ダウンロードを行った場合は、保存したファイルを実行してインストールを完了させて下さい。&lt;/p&gt;
+&lt;h1&gt;2. Discordアカウント作成&lt;/h1&gt;
+&lt;h2&gt;2.1. その前に&lt;/h2&gt;
+&lt;p&gt;13歳未満のお子さんは保護者の方がアカウントを作成する必要があります。また、13才以上の未成年でも保護者の同意が必要になります。&lt;/p&gt;
+&lt;p&gt;アカウント作成にはメールアドレスか電話番号が必要になりますが、&lt;a href=&quot;https://discord.com&quot;&gt;Discord&lt;/a&gt;からのメッセージがメールや電話番号へ通知されることはありません。&lt;/p&gt;
+&lt;p&gt;あと登録のときに、時々次のような画面が出ます。その時は赤で印をした部分をクリックして、案内に従って下さい。&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 311px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 27.027027027027025%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAFCAYAAABFA8wzAAAACXBIWXMAAA7DAAAOwwHHb6hkAAABLElEQVQY01WQzUoCURiG5yqiXZsyFTXPOD+emRxnxpmYRUHlXyZCFriIFrmWQqoLaB0ZCO4kup020a7beJqxKejAw/t98HF4eJUwjDgtFBhsZeiXdjAsm2pVIqW1yl+SXVpWmvZfboyvKdxMMG2bIAhRLnST6WDA02LBtNfjIJ9DkxJVCAzDwDQTTFRVRYhyjEDEs1Eqsu5H3L9/cvfxxVp0SGBbKP18kbflkuS9zGZcxsdX4zHtZovRaMRweE6n08GODYRQqVS0mAqaKsgZkubDM/J2xqYuabguypleXRm+zuc8drv42SyqoaNrWmolKJdTs5TkwyQDr87+UYvj9gmh71JzHJQo7bCZ2caPDXR7F5n0JtPe/nX3k7Wag1N3V3ieR9AIaMT9BeEe3+DAuDSyY1eRAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;robo check&quot;
+        title=&quot;robo check&quot;
+        src=&quot;/static/03b3f4f0b01e805a9846e47807bcf54a/ffa0f/robot_check.png&quot;
+        srcset=&quot;/static/03b3f4f0b01e805a9846e47807bcf54a/12f09/robot_check.png 148w,
+/static/03b3f4f0b01e805a9846e47807bcf54a/e4a3f/robot_check.png 295w,
+/static/03b3f4f0b01e805a9846e47807bcf54a/ffa0f/robot_check.png 311w&quot;
+        sizes=&quot;(max-width: 311px) 100vw, 311px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;2.2. アカウント作成&lt;/h2&gt;
+&lt;p&gt;Dicordを開くと次のような画面が出ます。&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 64.86486486486486%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAA7DAAAOwwHHb6hkAAACIElEQVQ4y3WTX2/SUBjG+4lkbWlL/1JKGVCgyFwUwUyizgljsGzEOLKLbTGG3Ri8cZksxDu/wvwIKia78Ps8nvfAWQhhF7+8p+fP0+d5eyrpZhoCLeUhZWfgZfJw/U046Ryvtpfl87S+up9q0nCxoZpQNBuSWDQsH3LSQlx7ivcfTvHm7T5ar/bQOxzg9W4HUWWLH1wnRi/u9o7Q6fYh0QJNCmhTJoywWYzhZ4t8HObL3LVYpzNCkEyUKk8wHn/BcDicO7S9cB7RzyEdFBAWKvx5NeI6KGY+quL29icTHc8dLh+k6Jab5W5k1hdysA4SEg4LpRpGo0vGCBIdfCQbnISS4ogxNfohSEgIRizy8WCARqMBiRxRfyj2ahzhfh266d1/yHK8ja9XV5hMJvPIZJ/YUFNLPBx3OTIlNJ2A3YQ2+ofHC0GdRB0kUxlGANVIQ2VzMhMWiBeJsbKITILVrWc8NmlJOrNt+xVYXgQneAw3qMHJxLDTJRYpC8MO2aVewQnZfMAFVd1BvdlCvfESxXINksME9s9+oXsxY/U3p3P2B72PM5x8vsPg8g4HF3/v6Z7P0P/0Dzu9H0jqNu8jXbVcIUa5ug3JYk6anRs02ze8vuhOsdOeYLczRfvgO1rta9TffcNzwd412zdFtXkOzXC4S+ohQb8n66ELTTegahp0w4BmWnAVGZGio6iYMBMJJNQkZEVl/VugKKyH+tqb8B+hrNyu9I4rnQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;login&quot;
+        title=&quot;login&quot;
+        src=&quot;/static/a3ca480d6ba1e2f875b6011fcc62390d/fcda8/login.png&quot;
+        srcset=&quot;/static/a3ca480d6ba1e2f875b6011fcc62390d/12f09/login.png 148w,
+/static/a3ca480d6ba1e2f875b6011fcc62390d/e4a3f/login.png 295w,
+/static/a3ca480d6ba1e2f875b6011fcc62390d/fcda8/login.png 590w,
+/static/a3ca480d6ba1e2f875b6011fcc62390d/0c69d/login.png 598w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;このページを見てる方は&lt;a href=&quot;https://discord.com&quot;&gt;Discord&lt;/a&gt;は始めてだと思うので、赤で印をした&quot;登録&quot;をクリックして下さい。&lt;/p&gt;
+&lt;p&gt;すると次のような画面が出てくると思います。&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 436px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 120.94594594594594%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAYCAYAAAD6S912AAAACXBIWXMAAA7DAAAOwwHHb6hkAAACiElEQVQ4y6VVy24TUQy9X1Qyk5nM+5npTJu2IEqFEJRQVKWogMqiSE0rNUIgURBlARIr9nwDr24Q34GKEAsk/sHYvrkzk0cXJIsj32t7nGv72BGmHYJCy4kYdN7avgf9owFs79yH7laP7w8f7cPJy1N4+uwEGk0HLDcu/RWEUtQN5Oj4KaSLHYjSAsIkZ/hRhroVyJcvTzygDOhHi+hcsGOSdcD2ktLYbPmIAAyrAul00yuDjUMoB4I8u6AZErpRnUud6bKvNsVG3wsNa7GgWXBJt4bSnhn0Q4LSMO2AU6ynNgsmaugG7ZFizwJBNaHnEg3mgw1NSrmhajhn/agHXEOiicI4p2aBCOIcovYSeGHGhFbFnTmgZjgjT1f1+D84FW0ooOLfvI3hgESVEOe1osz0ZTEN5Dsxy1RDmmGqYZ2k5Chn2a8R92I7SQ6omz54UQ6mE2PaDirpVTEvBQdf7ccFzqmHKblDu9xG9J0TZKWdWEKBhW7YYLRs0JotWGjoyEcDGrrJd92wkKzYLK2JNonKbtbsqEPopoMpp1chWepCUmyivD0K1MWIKJcyLW2bI3a6p8tdzHQVRHfvAxy+/Qv7r37A49OfU3AOz9//hsG7X+hzzvdx0Lf9N39g/c4LEBt3X8Pu4Dv0Dj5Cr/95iE8sdw6/MPaenMGD4zM8f50K8t09/gar1w9AhNkGBO1rEKTr4CdX+NlxfgNTucl3stlBZ9gs2bBKxmN33DaW18auJYiUZQs7aLltNKLOS6Uepe3haLJvxD7jgRVvBXEwK9Z4JxJoP6odGaa4I0PkaLw2bMQtCGKc+0jq3GiFM+JzUDCdBBGaAtCk0FlKGbT+h6W2+sVTIyfmH6W2UQWyZ5rbAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;register&quot;
+        title=&quot;register&quot;
+        src=&quot;/static/9dd01cfc8dc3595189a4fb62d01d7443/8574c/register.png&quot;
+        srcset=&quot;/static/9dd01cfc8dc3595189a4fb62d01d7443/12f09/register.png 148w,
+/static/9dd01cfc8dc3595189a4fb62d01d7443/e4a3f/register.png 295w,
+/static/9dd01cfc8dc3595189a4fb62d01d7443/8574c/register.png 436w&quot;
+        sizes=&quot;(max-width: 436px) 100vw, 436px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;ここに、下記の情報を記入して&quot;はい&quot;を押してください。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;メールアドレス&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ユーザー名&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;好きな名前を入れて下さい。後で変更も出来ます。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;パスワード&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;生年月日&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;13未満の子供の場合は、必ず保護者の生年月日を設定して下さい。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;記入して&quot;はい”を押すと、次のような画面が出る時があります。&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 571px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 103.37837837837837%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAVCAYAAABG1c6oAAAACXBIWXMAAA7DAAAOwwHHb6hkAAACXklEQVQ4y51U23LaQAz13/QhLQ3hYmzjGza+gsFgIKFhmnQm08lDpy/9/xNp3V0cE5eZPgiLlXx0dCSvNjZcsI0mjnpKf6jbyu+ydlz7KHgGnKoCTRs0/Dao1sVwMJ7ibmQK35jOYNqBsrkT0lkA3fSuM7ys7GDqRnD8BLYXwya/8GO4fgqLgDsBmwEJyhoySz4z6WXLmcMghiNrhgmZbvr/ZtgEnlh1shuk8Oc5omyNbFnBmSUYUaHB2LoYYqeGph2K9lgvP8yRFRVuen18uukJPZk5M7w6ZZnA2rBmQjti9PrrD15ef+Pz1wFsP0KclyLOoFc1lC1wy8xwRGe2F+H0/FO0zVpO3Xn3HraHMRT68MpY6A9NYXdktwPj3Tn7bO33tSYQPx1eCWpznhSI0gJxuoJPg2FWDrXLvh+mIiegYckvik0xZKFr3eK/QCvs7k94+PaE4+OzOgvjBYpyj/X2HnmxRbHeq3e5oGDIP36YiYRsucFmd8Th+F34QZQjJt2W652IV4cTyuoBq80B1f6RCiwFiWyxETksgSYp85/+0EK6KJHQFJkVF2IWRXkQrTMzBuRinMPspJasrWr5vJyOCLBxUv2l1EOQz15fx5dbXQxJ6tbcDq296e2Jn2N1XkISlMTUo6HwuSx+ASgBuA2DdpBF5kHMaJLyGuPbxbA8RMkCp6cXwbisjkJnWfwdQ/7cnFkslpqNNfNoTZr7ZruBYBtlGwG4WO1I063KuQD0aMfkLcKgdfu26iCm3eQtOJ5+KA3lvfhhy8Oxfb4X9YY/sdXQmpq1TesK/K+9AXNB0ijchNHiAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;authentication&quot;
+        title=&quot;authentication&quot;
+        src=&quot;/static/87c9d7d2817edc36baa98d0c592d5653/17d73/authentication.png&quot;
+        srcset=&quot;/static/87c9d7d2817edc36baa98d0c592d5653/12f09/authentication.png 148w,
+/static/87c9d7d2817edc36baa98d0c592d5653/e4a3f/authentication.png 295w,
+/static/87c9d7d2817edc36baa98d0c592d5653/17d73/authentication.png 571w&quot;
+        sizes=&quot;(max-width: 571px) 100vw, 571px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;好きな方を選択して認証を完了させて下さい。&lt;/p&gt;
+&lt;p&gt;認証が完了すると、Discordへログインが自動で行われます。&lt;/p&gt;
+&lt;h1&gt;3. 安全に使うための設定&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://discord.com&quot;&gt;Discord&lt;/a&gt;を安全に使うための設定を行います。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://discord.com&quot;&gt;Discord&lt;/a&gt;にログインすると、画面の左下に次のようなアイコンが並んでる思います。&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 236px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 21.62162162162162%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAECAYAAACOXx+WAAAACXBIWXMAAA7DAAAOwwHHb6hkAAABEklEQVQY0z1Qy0rDUBTMlyiRNrk3t7FpkzY3JW0xVZJCq2AMWlBw46M+6EK/xZ9w50J0JQiuxKXfcf/gjMcgLoY5M5wzDMdyhDKRHpt4uG0c6Rup2sbzO6bd6Zmwp43XCmpPeJs1O8zu78y7NuvSkeZ2o2mWa7bJXGWsSI/w+vaBz69vbE1m6Ccp8ukMZbXAyekZDsoKrlDgYDRchZ1RhnwwqvV4OsdxEGLBN+cX11hJBSsZZvT88k4PT4+kqzlNsoL2q0MqihlxI1J+QNyunpuiRUWSko40dRn5Xkm7rO/7CV1d3tCdVGQ5soVumMLPxhBpjCjUiOIBexpC+uAwcNg/81tqSNbiD0cNF8t1G7nr4QeFHojOE+bzcwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;user panel&quot;
+        title=&quot;user panel&quot;
+        src=&quot;/static/b193932b5f2ae8ba632e9cd551e0e77d/a7bcd/user_panel.png&quot;
+        srcset=&quot;/static/b193932b5f2ae8ba632e9cd551e0e77d/12f09/user_panel.png 148w,
+/static/b193932b5f2ae8ba632e9cd551e0e77d/a7bcd/user_panel.png 236w&quot;
+        sizes=&quot;(max-width: 236px) 100vw, 236px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;ユーザーの設定を行うため、赤で印をした&lt;img class=&quot;emojione&quot; alt=&quot;⚙&quot; title=&quot;:gear:&quot; src=&quot;https://cdn.jsdelivr.net/emojione/assets/3.1/png/32/2699.png&quot;&gt;マークをクリックして下さい。&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 179px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 62.83783783783784%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAA7DAAAOwwHHb6hkAAACo0lEQVQ4y42T2U7bUBCG8yJVLwpktWPHdjY78Zqd7AlLSrOhAFUDCSBULiiFAhdVqz5GX/Pv75QgcVP1YjQ+njnfmfPPnICsZiAraahJA3mrCFXLQkvnYJgecnkXCTUNUdIQl5P/ZYFKvcuNDvS8h05vH1pSh/9vNDnG4GCMZEqHEFdfbfrXAQEpkVoliNLfxEhMhuRXzEpVwtfxNegF5n8/+1fAuKhA8iugTxKQyZrQCJOZKNEUwmUfKqoradawdfwF+gwOmK0dOK0ejFoHeqGCYrMPb7uN2t4Q5d7uap0vlqEYLqr1HhyviDDhmzwkRID8DBPXFd6msrhJZXDJpnxVNDwoSdwIMr4bFr6pSTxqGdxLCp609MrfiRKuQ9GVbQsJvCNYWEtAC/x+8xYHm2G0QzHUYxJsamgT6IYFeBFx9e1QDt/r9BlaljlV5n7ZDOGSYIUgHyr5FZY4Gkazh5RVQCxlQErnoeg2MnYRaafMtYEYNRUZi2s6ZHqzWIXij5Tl4URScRcRIPG/38TAoDfAx+NPGA5nGI4mmE5PcPB+hPn8DNPxEfb6e2jU2ygR4rpleIUqfvz8heXZArcPD3CbbVwHozCT2dVhgSUTgxxiq96BW2nAKjdQqjeR9iqwG33YbJioW4hm8hAMG0LORW04hdvdwZiFdN0iHnntLKtL+MCnjS0sqN95MIKrjSCufF22IrjkesmrjJk8icZxKMo4pF/QTqnvgrHPzH3aCuOAMYGyKHx1AYsnTnMWJl4JddNF0y6gpZvosqoPmRwuTAennIQJm3KkprBPzdoEdrm22eEgZzj88jjY5dHRHLPzCyxv7zE6nGE2v0Cl0UClvQuZo+PyynatDb3cRKHVgccGKmygRnNKdThOCf3dwaoh/hP9A5KWxjCRUwMPAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;privacy tab&quot;
+        title=&quot;privacy tab&quot;
+        src=&quot;/static/08c308d08bb0318c7429c61b55a94a2e/652c7/privacy_tab.png&quot;
+        srcset=&quot;/static/08c308d08bb0318c7429c61b55a94a2e/12f09/privacy_tab.png 148w,
+/static/08c308d08bb0318c7429c61b55a94a2e/652c7/privacy_tab.png 179w&quot;
+        sizes=&quot;(max-width: 179px) 100vw, 179px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;ユーザー設定画面が表示されるので、左のリストから&quot;プライバシー・安全&quot;を選択して下さい。&lt;/p&gt;
+&lt;p&gt;すると右側の表示が変わるので、次の画像と同じになるように設定して下さい。&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 573px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 112.16216216216218%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAWCAYAAADAQbwGAAAACXBIWXMAAA7DAAAOwwHHb6hkAAACqElEQVQ4y51U2W7bQAzcL2lzOgmSJr5k3bIsy7IsH7GRq0URpGgRoAWC9qX/P+VQkWsbQRr3YUDuijtLDrkyrThGx4mQ5QX8oIv3uwc4qJ1g//AYewdHr2J3vyYQK/7O3iGOTj7ANIXQcbuIegn8MIbleHD9EFbHQdNy0BI0Wh20bQ+OF4pvSQI+Gk0L73b2haimZEykdnwG4zltnJ63JVAI2i7aHV9IPMXZeWsNpxvr87q1hrpwmFkewg0HCMIEcTLEYDhBko6Q9HPYbiTZhGJDta7PaiKpovTrTVuJLhodtUzKRK6Ni6YLyw4UFUm1ZsalDdB5Jqt8EpC03iwtKzS514XlxQi7qd7qS6Yk1RIkqNFy9SDBTAju067uVWuTeZKREPpBD94ztDRBN8lEginSQYF+Vuhlrnzn5UQQ9ZfkS0LLDtGSEjbR3rDqS2wFLV1tpOjIpBDGDRJ4YQq/O4AfpeL316wSyYG/RKXftHz9xrUtFV6Ijo22B9PPxkikpGQwRj5eIGWJ2UT8OabzGwzyKXr9kX5nXBRnUv4E8+uPGuPLxSS7f3jE1d09TE9GJBvNFCQjKfd6aSHrCYrpFUaTBYbFXPXMRpcYz8o9EvIyZnj/5RHXJOSh2eIOi+tPGsyDJMnymcxjIY3J5RVlCEQST5oS9YYIJUvH76kslSWpakiHm9SSWFuLrTSrxF/VchXLplRBq118KfCt0AyZDctgV+mvBmxm8hIYV42YiUVUgp1jM6jVtpmxKnJQX8OGxCI8Z6gqeZvMqhl8+vkbD99+wLwm8DbgoJPL6FuV0ZkubpEXlzqP1PGtxGWGLp5+SYZfv8P8Tzab4OXaVNHflIM71KfFpnTlJ1sF/VvLkpD6L19K+QpS7RLJ2GV7a/0CXN1+xuTyBn8AOxHo3TszDqgAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;privacy setting&quot;
+        title=&quot;privacy setting&quot;
+        src=&quot;/static/e92a79d006331efd96f2eae41681e13d/3c024/privacy_setting.png&quot;
+        srcset=&quot;/static/e92a79d006331efd96f2eae41681e13d/12f09/privacy_setting.png 148w,
+/static/e92a79d006331efd96f2eae41681e13d/e4a3f/privacy_setting.png 295w,
+/static/e92a79d006331efd96f2eae41681e13d/3c024/privacy_setting.png 573w&quot;
+        sizes=&quot;(max-width: 573px) 100vw, 573px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;設定によっては次のようなポップアップが出るので&quot;はい&quot;を選択して下さい。&lt;br&gt;
+間違えた場合は、一度戻して再度同じ設定を試せば出てきます。&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 420px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 43.24324324324324%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAYAAAAywQxIAAAACXBIWXMAAA7DAAAOwwHHb6hkAAABaElEQVQoz42QWVLCQBCGcyBkDVlJIEBCFkgIkISdYpESHzyGt/EC6pOHUt9+pwe0XErl4au/Z7rn754WojhDMl4gnSyx3V9zHU9XWK33iEcTzJdbDJMZNpcHBOEQm90BV9c3kNQ6qor5BboTmraPlhOg40cYMAPX76MbjTiOG3ITx4vQDUew2j7COEXGmtJjUTa4vkOmAhUsVjtkbKphOsN0vkY0yDheEB+NvRBGw2GNu7DdHv/JIJmiFyXoD8e8qW62j4a62UKtbp9oc6UkqVprgvKKbrHY4mfNaMG0OlwJuqP8x4Q09m9QgSibP3bFc/Rd2htDJpghIXwv/ovP+xLZOc+a5ZUTrEGJJiyUJJyHjHyxitxFBbmCCKksI5E0JBWmLM5Y7IgKBCr6DzLM5SvQag0EQR9Vo4mYGb3YNl6zFM+LBdBxcFe3zp+QjMuiClWroyjp6DDDh4aFR9fDvevjyWriVjfwBjPSP6yNKyEWAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;privacy popup&quot;
+        title=&quot;privacy popup&quot;
+        src=&quot;/static/17732ff97e448cc1e02151a2131dc981/d10fb/privacy_popup.png&quot;
+        srcset=&quot;/static/17732ff97e448cc1e02151a2131dc981/12f09/privacy_popup.png 148w,
+/static/17732ff97e448cc1e02151a2131dc981/e4a3f/privacy_popup.png 295w,
+/static/17732ff97e448cc1e02151a2131dc981/d10fb/privacy_popup.png 420w&quot;
+        sizes=&quot;(max-width: 420px) 100vw, 420px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;設定が完了したら、右上の&quot;X&quot;ボタンかESCキーを押して画面を抜けます。&lt;/p&gt;
+&lt;h1&gt;4. CoderDojo東住吉のサーバーへ参加&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://discord.com&quot;&gt;Discord&lt;/a&gt;はサーバーと呼ばれるグループに参加することで、そのグループに参加してるメンバとコミュニケーションを取ることが出来ます。&lt;/p&gt;
+&lt;p&gt;下のリンクをクリックして、CoderDojo東住吉のサーバーへ参加して準備完了です。&lt;/p&gt;
+&lt;a href=&quot;https://discord.gg/sT6K3bspqz&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; class=&quot;button special&quot;&gt;
+CoderDojo東住吉 Discordサーバー
+&lt;/a&gt;</content:encoded></item><item><title><![CDATA[Test Post]]></title><description><![CDATA[Test Test test tester!]]></description><link>https://coderdojo-higashi-sumiyoshi.github.io/2021-04-14-test-post/</link><guid isPermaLink="false">https://coderdojo-higashi-sumiyoshi.github.io/2021-04-14-test-post/</guid><pubDate>Wed, 14 Apr 2021 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;Test&lt;/h1&gt;
+&lt;p&gt;Test test tester!&lt;/p&gt;</content:encoded></item></channel></rss>
