@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[CoderDojo東住吉]]></title><description><![CDATA[子どものプログラミング道場]]></description><link>https://coderdojo-higashi-sumiyoshi.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 18 Apr 2021 06:03:41 GMT</lastBuildDate><item><title><![CDATA[Discordの始め方]]></title><description><![CDATA[このページではDiscordの始め方を説明します。   Discordはチャットやオンライン会議が出来る無料のアプリです。 CoderDojoがオンライン開催の時は、Discordを使って質問や発表が出来るので、オンライン会議に使えるデバイス(パソコン/タブレット/スマートフォン)上でDiscord…]]></description><link>https://coderdojo-higashi-sumiyoshi.github.io/2021-04-16_how_to_start_discord/</link><guid isPermaLink="false">https://coderdojo-higashi-sumiyoshi.github.io/2021-04-16_how_to_start_discord/</guid><pubDate>Sun, 18 Apr 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;このページではDiscordの始め方を説明します。  &lt;/p&gt;
-&lt;p&gt;Discordはチャットやオンライン会議が出来る無料のアプリです。&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[CoderDojo東住吉]]></title><description><![CDATA[子どものプログラミング道場]]></description><link>https://coderdojo-higashi-sumiyoshi.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 18 Apr 2021 07:05:19 GMT</lastBuildDate><item><title><![CDATA[Discordの始め方]]></title><description><![CDATA[Discordはチャットやオンライン会議が出来る無料のアプリです。 このページではDiscordの始め方を説明します。 CoderDojoがオンライン開催の時は、Discordを使って質問や発表が出来るので、オンライン会議に使えるデバイス(パソコン/タブレット/スマートフォン)上でDiscord…]]></description><link>https://coderdojo-higashi-sumiyoshi.github.io/how_to_start_discord/</link><guid isPermaLink="false">https://coderdojo-higashi-sumiyoshi.github.io/how_to_start_discord/</guid><pubDate>Sun, 18 Apr 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Discordはチャットやオンライン会議が出来る無料のアプリです。&lt;/p&gt;
+&lt;p&gt;このページではDiscordの始め方を説明します。&lt;/p&gt;
 &lt;p&gt;CoderDojoがオンライン開催の時は、Discordを使って質問や発表が出来るので、オンライン会議に使えるデバイス(パソコン/タブレット/スマートフォン)上でDiscordを使う準備をお願いします。&lt;/p&gt;
 &lt;p&gt;Discordをお使いになるデバイスで、このページを見るとスムーズに始めれると思います。&lt;/p&gt;
 &lt;h1&gt;0. はじめに&lt;/h1&gt;
-&lt;p&gt;13歳未満のお子さんは&lt;strong&gt;保護者の方が利用するアカウント&lt;/strong&gt;を作成する必要があります。&lt;br&gt;
+&lt;p&gt;13才未満のお子さんは&lt;strong&gt;保護者の方が利用するアカウント&lt;/strong&gt;を作成して下さい。
 13才以上で未成年のお子さんは自分でアカウントを作成出来ますが、保護者の同意が必要になります。&lt;/p&gt;
 &lt;p&gt;本人確認のためにアカウント作成にはメールアドレスか電話番号が必要になりますが、登録したメールや電話番号は公開されません。また本人確認完了後はDiscordから通知が送信されることもありません。&lt;/p&gt;
 &lt;p&gt;あと登録のときに、時々次の様な画面が出ます。その時は赤で印をした部分をクリックして案内に従って下さい。&lt;/p&gt;
@@ -75,7 +75,7 @@ Discord
 &lt;/ul&gt;
 &lt;p&gt;ダウンロードでファイルを保存した場合は、ファイルを実行してインストールを完了させて下さい。&lt;/p&gt;
 &lt;h1&gt;2. Discordアカウント作成&lt;/h1&gt;
-&lt;p&gt;Dicordを開くと下の様な画面が出ます。&lt;/p&gt;
+&lt;p&gt;Dicordを開くと下の様な画面が出ます。出てない場合は、ログインのボタンを探してクリックして下さい。&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
@@ -122,7 +122,7 @@ Discord
       /&gt;
     &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;この入力画面から下記の情報を記入して下さい。&lt;br&gt;
-13未満のお子さんは、必ず&lt;strong&gt;保護者方が保護者として&lt;/strong&gt;アカウントを作成して下さい。&lt;/p&gt;
+13才未満のお子さんは、必ず&lt;strong&gt;保護者の方が利用するアカウント&lt;/strong&gt;を作成して下さい。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;メールアドレス&lt;/li&gt;
 &lt;li&gt;
@@ -209,16 +209,16 @@ Discord
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 112.16216216216218%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAWCAYAAADAQbwGAAAACXBIWXMAAA7DAAAOwwHHb6hkAAACrUlEQVQ4y51Ta0/bQBC8X9ISEhIQLSR2bJ99Pr9fcR4k4tWqQlStkFoJtV/4/1PtGkdJiijph9Hunddzs7N3wowi2DJAUdVQfoj3nR56/RN0j45x2Bu8ik63j053gE5vgIPDIwxOPkIYUQTphgjiBEpHsKQHV2lYtoRhSZiWxMi0MXY8SE9jZFqwpcLIsPDuoIuDwz6TkZD+8QcIT45xejbGyJQwxi7GtoJpeYwPZ+YWTnfWZ0NrC0NTQiwqDVfn8HWCKCmRlzMk2QRJWsFxA9hSw3E1R1dRNwGs53xoOEx0PrI5kigRuA7ODReW4zNaknZNipvow34ma3MiINKh0UTqUFReCMuLoMOMT1U6YVJuwXAwMl3+kUBKCLRPcXOvXYvCC2B7EZQfw3sGt6YihEmBvJwjy2ukRc2HuX7MhxP8IF2TrwktR8O0/b8w3omcO3oNbp1jwLDdkCFcP4GnM6gwhwoyeDrdikwkgw2iJjcsxd9o7XgRzg2J0diDSIspkrxGkk9RTVfIqMVihmq6xHx5jbyaI04n/J3qgqhAWsywvPrENUqnTHZ3/4DL2zuIOJugmCwYREaktBdnNbJyhnp+iclshbJesp/F5ALTRbNHhHQYKbz7+oArIqSfFqtbrK4+czH9SCRFtUCS1QiTCkFcwA9zeDpBEJfQUQGpYraljUTKHlJCm+QlYWut4rVnrfmbXm5iPZS2aHOKLxW+FayQ1FAbNFXKNwt2lbwEqmuvmIjSCQg0ORoGebWvMuqKOMhfQQOJkorvUNvyPsraO/j46wn3339CvGbwPqCLTlyC32o5w3x1g6q+4PtIPr6VuFHo4vH3E+6//YD4HzW7oMN5qGEO0Vzckp8WDSVMynXRv71sCMn/9UtpXkHGUyIymrKzt38+Lm++YHZxjT87EejdXjGsOgAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 112.16216216216218%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAWCAYAAADAQbwGAAAACXBIWXMAAA7EAAAOxAGVKw4bAAADDUlEQVQ4y5VU23LbNhDlpzSWZceNJYsiAeJCACQFXnWxVKeNM9NOepv0oTPJZNL/P52FLVlRO63zcGaxC+zB2V2C0VYbDMLiruvhc4fLF+d4Nb7Ct+eXuBpd4OXZE8i/Gl2GvevzS0xGF2CjC1iKnY0xvpog8rlFn2qstcEydygzBa8MSi5hmYBjAibhKB7jecJQZhplzBB/MwI/GyMlshfnGL+8RiQkw6tpijgR4KlEwTUKpuCYgpgkkNMEYo/J0zqeJpjMGKYzFuz1jGE2F4huWwNpauSmhKtaVO0Khe/hFh1SaZEIg1SaYLkuwNRDTOgC8TwLhDcxx82MBVGRlRlu5hIsywMyacGFOfgp14/2aW+/JoLZPAvKyM5TiahTDkwVMM5D6gLaVOHwNJSQIU5kSCQEJTEPcbLHsb0fNcqCqwI6L6EeQcRUkqsa1O0avh6waIZwmczLcDkht4sD+ZQuIkKWGSQ8/wfSExvWmTmAib21SIVFJl1AJPMKynhoV0NbD2UWX9hAREnZEUFmMGc67JFPFXZTBh8LRItmiaoeUNVLdMsdPJXYrNAtt1hvv0fdrVEu+rBP52zRYNGssH19H84ou0AyF/j006/4ZXePqPQ9mn4TQGRESrHSD/DtCsP6Dv1qh3bYhn42/S2Wm4cYETrfoxAWf7z7Hb/dvUVESZvdG+xevw2HKZFImm6Dyg9wVQdbNshdDWUq2LKFKRoIXUKbBXheYVAFlHRoM4MoU0XYpF4SvvB1eegZWXbSSy4sEulQsxxSWLQ8R7Q/dDzFfXJIku4/QYQNzyGlw4oISRGpoTJoqrQ+TjgmP8VeIRFmTMOnClGx6EGgydEwqFfPURZwKFnDVx021iOigRRVhzhVh5L/T9mxwlQVKGYcHz98xl/v3iM67dmz1R31kKbLmUZLJYe32q6w3v2AbrgN3yP18VnEJwo//vwe0deo+Tek0qHkObyrscorRA8fbhueFg2FfrL7Hj5nyox+f4nEB3p6390jengFPkyayGjK2deqZBp/7t7gx2GLvwFmEewrmMOa2wAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;privacy setting&quot;
         title=&quot;privacy setting&quot;
-        src=&quot;/static/e92a79d006331efd96f2eae41681e13d/3c024/privacy_setting.png&quot;
-        srcset=&quot;/static/e92a79d006331efd96f2eae41681e13d/12f09/privacy_setting.png 148w,
-/static/e92a79d006331efd96f2eae41681e13d/e4a3f/privacy_setting.png 295w,
-/static/e92a79d006331efd96f2eae41681e13d/3c024/privacy_setting.png 573w&quot;
+        src=&quot;/static/cd98a422d0519618457251d985685949/3c024/privacy_setting.png&quot;
+        srcset=&quot;/static/cd98a422d0519618457251d985685949/12f09/privacy_setting.png 148w,
+/static/cd98a422d0519618457251d985685949/e4a3f/privacy_setting.png 295w,
+/static/cd98a422d0519618457251d985685949/3c024/privacy_setting.png 573w&quot;
         sizes=&quot;(max-width: 573px) 100vw, 573px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
