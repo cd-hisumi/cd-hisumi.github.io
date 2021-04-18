@@ -1,9 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[CoderDojo東住吉]]></title><description><![CDATA[子どものプログラミング道場]]></description><link>https://coderdojo-higashi-sumiyoshi.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 18 Apr 2021 04:24:40 GMT</lastBuildDate><item><title><![CDATA[Discordの始め方]]></title><description><![CDATA[オンライン開催の時はDiscordを使います。Discordを使うとオンラインで質問や発表が出来ます。 このページではDiscordの始め方を説明します。 0. その前にご確認下さい 13歳未満のお子さんは保護者の方がアカウントを作成する必要があります。また、1…]]></description><link>https://coderdojo-higashi-sumiyoshi.github.io/2021-04-16_how_to_start_discord/</link><guid isPermaLink="false">https://coderdojo-higashi-sumiyoshi.github.io/2021-04-16_how_to_start_discord/</guid><pubDate>Fri, 16 Apr 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;オンライン開催の時はDiscordを使います。Discordを使うとオンラインで質問や発表が出来ます。&lt;/p&gt;
-&lt;p&gt;このページではDiscordの始め方を説明します。&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[CoderDojo東住吉]]></title><description><![CDATA[子どものプログラミング道場]]></description><link>https://coderdojo-higashi-sumiyoshi.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 18 Apr 2021 05:33:35 GMT</lastBuildDate><item><title><![CDATA[Discordの始め方]]></title><description><![CDATA[Discordはチャットやオンライン会議が出来る無料のアプリです。 CoderDojoがオンライン開催の時は、Discordを使って質問や発表が出来るので、オンライン会議に使えるデバイス(パソコン/タブレット/スマートフォン)上でDiscordを使う準備をお願いします。 このページではDiscord…]]></description><link>https://coderdojo-higashi-sumiyoshi.github.io/2021-04-16_how_to_start_discord/</link><guid isPermaLink="false">https://coderdojo-higashi-sumiyoshi.github.io/2021-04-16_how_to_start_discord/</guid><pubDate>Sun, 18 Apr 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Discordはチャットやオンライン会議が出来る無料のアプリです。&lt;/p&gt;
+&lt;p&gt;CoderDojoがオンライン開催の時は、Discordを使って質問や発表が出来るので、オンライン会議に使えるデバイス(パソコン/タブレット/スマートフォン)上でDiscordを使う準備をお願いします。&lt;/p&gt;
+&lt;p&gt;このページではDiscordの始め方を説明します。&lt;br&gt;
+Discordをお使いになるデバイスで、このページを見るとスムーズに始めれると思います。&lt;/p&gt;
 &lt;h2&gt;0. その前にご確認下さい&lt;/h2&gt;
-&lt;p&gt;13歳未満のお子さんは保護者の方がアカウントを作成する必要があります。また、13才以上の未成年は保護者の同意が必要になります。&lt;/p&gt;
+&lt;p&gt;13歳未満のお子さんは&lt;strong&gt;保護者の方が利用するアカウント&lt;/strong&gt;を作成する必要があります。&lt;br&gt;
+13才以上で未成年のお子さんは自分でアカウントを作成出来ますが、保護者の同意が必要になります。&lt;/p&gt;
 &lt;p&gt;本人確認のためにアカウント作成にはメールアドレスか電話番号が必要になりますが、登録したメールや電話番号は公開されません。また本人確認完了後はDiscordから通知が送信されることもありません。&lt;/p&gt;
-&lt;p&gt;あと登録のときに、時々次の様な画面が出ます。その時は赤で印をした部分をクリックして、案内に従って下さい。&lt;/p&gt;
+&lt;p&gt;あと登録のときに、時々次の様な画面が出ます。その時は赤で印をした部分をクリックして案内に従って下さい。&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 311px; &quot;
@@ -48,12 +51,27 @@
         loading=&quot;lazy&quot;
       /&gt;
     &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;下記リンクからDiscordのサイトへアクセスすると上の画像の様なボタンがあると思います。見つけたら環境に合わせて選択して下さい。&lt;br&gt;
-このページを見てるブラウザ(Chrome, Edge, SafariならOK)のままでも使えますが、インストールすると少しだけ使いやすくなります。利用頻度や必要に応じて選んで頂ければ良いと思います。&lt;/p&gt;
+&lt;p&gt;下記リンクからDiscordサイトにアクセスすると上の様なボタンがあると思います。使いたい環境のボタンを押して下さい。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&quot;○○○ ダウンロード&quot;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Discord専用アプリをインストールします。&lt;/li&gt;
+&lt;li&gt;スマートフォンやタブレットの方はこちらを選択して下さい。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&quot;Discordをブラウザで開く&quot;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;このページを見てるアプリ(Chrome, Edge, SafariならOK)の中でDiscordを使います。&lt;/li&gt;
+&lt;li&gt;アプリをインストールしたくない場合はこちらを選択して下さい。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;&lt;a href=&quot;https://discord.com&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; class=&quot;button special&quot;&gt;
 Discord
 &lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;ダウンロードを行った場合は、保存したファイルを実行してインストールを完了させて下さい。&lt;/p&gt;
+&lt;p&gt;ダウンロードでファイルを保存した場合は、ファイルを実行してインストールを完了させて下さい。&lt;/p&gt;
 &lt;h1&gt;2. Discordアカウント作成&lt;/h1&gt;
 &lt;p&gt;Dicordを開くと下の様な画面が出ます。&lt;/p&gt;
 &lt;p&gt;&lt;span
@@ -102,7 +120,7 @@ Discord
       /&gt;
     &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;この入力画面から下記の情報を記入して下さい。&lt;br&gt;
-13未満のお子さんの場合は、必ず保護者のアカウントとして登録して下さい。&lt;/p&gt;
+13未満のお子さんは、必ず&lt;strong&gt;保護者方が保護者として&lt;/strong&gt;アカウントを作成して下さい。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;メールアドレス&lt;/li&gt;
 &lt;li&gt;
@@ -136,7 +154,7 @@ Discord
         loading=&quot;lazy&quot;
       /&gt;
     &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;好きな方を選択して認証を完了させて下さい。&lt;/p&gt;
+&lt;p&gt;使いたい方を選択して認証を完了させて下さい。認証のメールやメッセージは別のパソコン・スマートフォンで行っても問題ありません。&lt;/p&gt;
 &lt;p&gt;認証が完了すると、Discordへ自動でログインされます。&lt;/p&gt;
 &lt;h1&gt;3. 安全に使うための設定&lt;/h1&gt;
 &lt;p&gt;Discordを安全に使うための設定を行います。&lt;/p&gt;
@@ -228,12 +246,13 @@ Discord
       /&gt;
     &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;設定が完了したら、右上の&quot;X&quot;ボタンかESCキーを押して画面を抜けます。&lt;/p&gt;
-&lt;h1&gt;4. CoderDojo東住吉のサーバーへ参加&lt;/h1&gt;
+&lt;h1&gt;4. CoderDojo東住吉のグループに参加&lt;/h1&gt;
 &lt;p&gt;あともう一息です。&lt;br&gt;
-Discordはサーバーと呼ばれるグループに参加することで、そのグループに参加してるメンバとオープンにコミュニケーションを取ることが出来ます。&lt;/p&gt;
-&lt;p&gt;CoderDojo東住吉のサーバーへ参加するために、下のリンクをクリックして下さい。&lt;/p&gt;
+Discordはグループに参加することで、参加してるメンバとオープンにコミュニケーションを取ることが出来ます。
+(Discordではサーバーと呼んでいます)&lt;/p&gt;
+&lt;p&gt;CoderDojo東住吉のグループに参加するために、下のリンクをクリックして下さい。&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://discord.gg/sT6K3bspqz&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; class=&quot;button special&quot;&gt;
-CoderDojo東住吉 Discordサーバー
+CoderDojo東住吉 | Discord
 &lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;下の画像のような招待画面が出るので、&quot;招待を受ける&quot;ボタンをクリックして参加完了です。&lt;/p&gt;
 &lt;p&gt;&lt;span
@@ -257,5 +276,5 @@ CoderDojo東住吉 Discordサーバー
         loading=&quot;lazy&quot;
       /&gt;
     &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;パソコンによってはエラーが出る場合がありますが、その時は気にせず画面に出てる&quot;Discordで開く&quot;ボタンを押して下さい。CoderDojo東住吉のサーバー画面になると思います。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Test Post]]></title><description><![CDATA[Test Test test tester!]]></description><link>https://coderdojo-higashi-sumiyoshi.github.io/2021-04-14-test-post/</link><guid isPermaLink="false">https://coderdojo-higashi-sumiyoshi.github.io/2021-04-14-test-post/</guid><pubDate>Wed, 14 Apr 2021 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;Test&lt;/h1&gt;
+&lt;p&gt;パソコンによってはエラーが出る場合がありますが、その時は気にせず画面に出てる&quot;Discordで開く&quot;ボタンを押して下さい。CoderDojo東住吉の画面になると思います。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Test Post]]></title><description><![CDATA[Test Test test tester!]]></description><link>https://coderdojo-higashi-sumiyoshi.github.io/2021-04-14-test-post/</link><guid isPermaLink="false">https://coderdojo-higashi-sumiyoshi.github.io/2021-04-14-test-post/</guid><pubDate>Wed, 14 Apr 2021 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;Test&lt;/h1&gt;
 &lt;p&gt;Test test tester!&lt;/p&gt;</content:encoded></item></channel></rss>
