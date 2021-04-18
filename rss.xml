@@ -1,13 +1,38 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[CoderDojo東住吉]]></title><description><![CDATA[子どものプログラミング道場]]></description><link>https://coderdojo-higashi-sumiyoshi.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 17 Apr 2021 16:33:33 GMT</lastBuildDate><item><title><![CDATA[Discordの始め方]]></title><description><![CDATA[オンライン開催の時はDiscordを使います。Discordを使うとオンラインで質問や発表が出来ます。 このページではDiscordの始め方を説明します。 1. ソフトウェアのインストール  Discord…]]></description><link>https://coderdojo-higashi-sumiyoshi.github.io/2021-04-16_how_to_discord/</link><guid isPermaLink="false">https://coderdojo-higashi-sumiyoshi.github.io/2021-04-16_how_to_discord/</guid><pubDate>Fri, 16 Apr 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;オンライン開催の時は&lt;a href=&quot;https://discord.com&quot;&gt;Discord&lt;/a&gt;を使います。Discordを使うとオンラインで質問や発表が出来ます。&lt;/p&gt;
-&lt;p&gt;このページではDiscordの始め方を説明します。&lt;/p&gt;
-&lt;h1&gt;1. ソフトウェアのインストール&lt;/h1&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[CoderDojo東住吉]]></title><description><![CDATA[子どものプログラミング道場]]></description><link>https://coderdojo-higashi-sumiyoshi.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 18 Apr 2021 03:29:28 GMT</lastBuildDate><item><title><![CDATA[Discordの始め方]]></title><description><![CDATA[オンライン開催の時はDiscordを使います。Discord]を使うとオンラインで質問や発表が出来ます。 このページではDiscord]の始め方を説明します。 0. その前にご確認下さい 13歳未満のお子さんは保護者の方がアカウントを作成する必要があります。また、1…]]></description><link>https://coderdojo-higashi-sumiyoshi.github.io/2021-04-16_how_to_start_discord/</link><guid isPermaLink="false">https://coderdojo-higashi-sumiyoshi.github.io/2021-04-16_how_to_start_discord/</guid><pubDate>Fri, 16 Apr 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;オンライン開催の時はDiscordを使います。Discord]を使うとオンラインで質問や発表が出来ます。&lt;/p&gt;
+&lt;p&gt;このページではDiscord]の始め方を説明します。&lt;/p&gt;
+&lt;h2&gt;0. その前にご確認下さい&lt;/h2&gt;
+&lt;p&gt;13歳未満のお子さんは保護者の方がアカウントを作成する必要があります。また、13才以上の未成年は保護者の同意が必要になります。&lt;/p&gt;
+&lt;p&gt;本人確認のためにアカウント作成にはメールアドレスか電話番号が必要になりますが、登録したメールや電話番号は公開されません。また本人確認完了後はDiscordから通知が送信されることもありません。&lt;/p&gt;
+&lt;p&gt;あと登録のときに、時々次の様な画面が出ます。その時は赤で印をした部分をクリックして、案内に従って下さい。&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 311px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 27.027027027027025%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAFCAYAAABFA8wzAAAACXBIWXMAAA7DAAAOwwHHb6hkAAABKUlEQVQY01WQzUoCURxH5ymiXZs+VNS8d768c3Mcx5lwUVD5lYmQBS6iRa6jkOoBWkcGgjuJXqdNtOs1ToxNQRcOh//m8uMYcdzgJJ9nsLFJv7iN42nKZYVS3tK/JLfyvNT6z2vjK/I317haE0UxxrntMhkMeJrPmfR67OeyWEohhcBxHFw3wUVKiRAlhBAIKXGKBVbDBvfvn9x9fLHSOCDSHkY/V+BtsSB5L9MpF1JyOR7TbrYYjUYMh2d0Oh201gghMU0L0zSxpCDrKJoPz6jbKeu2oh4EGKd2ebnwdTbjsdslzGSQjo1tWekqQamULktJPkwc1arsHbY4ah8ThwEV38dopA2bm1uEQmLrHVTSTaXd/rX7caXi41eDJbVajageUY9ioniXb+DAuDQxDJtsAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;robo check&quot;
+        title=&quot;robo check&quot;
+        src=&quot;/static/03b3f4f0b01e805a9846e47807bcf54a/ffa0f/robot_check.png&quot;
+        srcset=&quot;/static/03b3f4f0b01e805a9846e47807bcf54a/12f09/robot_check.png 148w,
+/static/03b3f4f0b01e805a9846e47807bcf54a/e4a3f/robot_check.png 295w,
+/static/03b3f4f0b01e805a9846e47807bcf54a/ffa0f/robot_check.png 311w&quot;
+        sizes=&quot;(max-width: 311px) 100vw, 311px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h1&gt;1. ソフトウェアのインストール (または環境の選択)&lt;/h1&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 11.486486486486488%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAACCAYAAABYBvyLAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAkElEQVQI13XMuw7BYABA4T6TsKhUUv4YaKyuSYPVu3gLfQib2VJFeqElZXEpioU4ym74kjMdaTR54m/vTN0zMy/CtA9Y7gk7iHHWN4LdAyd80x/sSatd1HIbtaKTEw1kUUcptRDVHilZI98cIo3NF354ZbG6MF9GWN4x6Qh3Eyf+D7PF2s93XNA6ZBQNoRt8AFiMcUODZda0AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 11.486486486486488%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAACCAYAAABYBvyLAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAkElEQVQI13XMuw7BYACA0T6TsKhUUhoDjdU1abB6F2/BQ9jMlipN+1dbTVlcimIhPmE3nPVI0/mTYHtnIc4svQTTOWCJE06Y4m5uhLsHbvxmONqTVfuo1S5qzaCgtZC1Jkqlg1YfkJF1iu0x0sx8EcRXbP/Cap1geUdsP0FEKSL6H+bLjZ9vXNJ75BQdzZjwAViMcUMfFOkBAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
@@ -23,44 +48,21 @@
         loading=&quot;lazy&quot;
       /&gt;
     &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://discord.com&quot;&gt;Discord&lt;/a&gt;のサイトへアクセスすると上記のようなボタンがあるので、お好きな方を選んで下さい。&lt;/p&gt;
-&lt;p&gt;このページを見てるブラウザ(Chrome, Edge, SafariならOK)のままでも使えますが、インストールすると少しだけ使いやすくなります。利用頻度や必要に応じて選んで頂ければ良いと思います。&lt;/p&gt;
+&lt;p&gt;下記リンクからDiscordのサイトへアクセスすると上の画像の様なボタンがあると思います。見つけたら環境に合わせて選択して下さい。&lt;br&gt;
+このページを見てるブラウザ(Chrome, Edge, SafariならOK)のままでも使えますが、インストールすると少しだけ使いやすくなります。利用頻度や必要に応じて選んで頂ければ良いと思います。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;[Discord]: &lt;a href=&quot;https://discord.com&quot;&gt;https://discord.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;ダウンロードを行った場合は、保存したファイルを実行してインストールを完了させて下さい。&lt;/p&gt;
 &lt;h1&gt;2. Discordアカウント作成&lt;/h1&gt;
-&lt;h2&gt;2.1. その前に&lt;/h2&gt;
-&lt;p&gt;13歳未満のお子さんは保護者の方がアカウントを作成する必要があります。また、13才以上の未成年でも保護者の同意が必要になります。&lt;/p&gt;
-&lt;p&gt;アカウント作成にはメールアドレスか電話番号が必要になりますが、&lt;a href=&quot;https://discord.com&quot;&gt;Discord&lt;/a&gt;からのメッセージがメールや電話番号へ通知されることはありません。&lt;/p&gt;
-&lt;p&gt;あと登録のときに、時々次のような画面が出ます。その時は赤で印をした部分をクリックして、案内に従って下さい。&lt;/p&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 311px; &quot;
-    &gt;
-      &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 27.027027027027025%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAFCAYAAABFA8wzAAAACXBIWXMAAA7DAAAOwwHHb6hkAAABLElEQVQY01WQzUoCURiG5yqiXZsyFTXPOD+emRxnxpmYRUHlXyZCFriIFrmWQqoLaB0ZCO4kup020a7beJqxKejAw/t98HF4eJUwjDgtFBhsZeiXdjAsm2pVIqW1yl+SXVpWmvZfboyvKdxMMG2bIAhRLnST6WDA02LBtNfjIJ9DkxJVCAzDwDQTTFRVRYhyjEDEs1Eqsu5H3L9/cvfxxVp0SGBbKP18kbflkuS9zGZcxsdX4zHtZovRaMRweE6n08GODYRQqVS0mAqaKsgZkubDM/J2xqYuabguypleXRm+zuc8drv42SyqoaNrWmolKJdTs5TkwyQDr87+UYvj9gmh71JzHJQo7bCZ2caPDXR7F5n0JtPe/nX3k7Wag1N3V3ieR9AIaMT9BeEe3+DAuDSyY1eRAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;robo check&quot;
-        title=&quot;robo check&quot;
-        src=&quot;/static/03b3f4f0b01e805a9846e47807bcf54a/ffa0f/robot_check.png&quot;
-        srcset=&quot;/static/03b3f4f0b01e805a9846e47807bcf54a/12f09/robot_check.png 148w,
-/static/03b3f4f0b01e805a9846e47807bcf54a/e4a3f/robot_check.png 295w,
-/static/03b3f4f0b01e805a9846e47807bcf54a/ffa0f/robot_check.png 311w&quot;
-        sizes=&quot;(max-width: 311px) 100vw, 311px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;h2&gt;2.2. アカウント作成&lt;/h2&gt;
-&lt;p&gt;Dicordを開くと次のような画面が出ます。&lt;/p&gt;
+&lt;p&gt;Dicordを開くと下の様な画面が出ます。&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 64.86486486486486%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAA7DAAAOwwHHb6hkAAACIElEQVQ4y3WTX2/SUBjG+4lkbWlL/1JKGVCgyFwUwUyizgljsGzEOLKLbTGG3Ri8cZksxDu/wvwIKia78Ps8nvfAWQhhF7+8p+fP0+d5eyrpZhoCLeUhZWfgZfJw/U046Ryvtpfl87S+up9q0nCxoZpQNBuSWDQsH3LSQlx7ivcfTvHm7T5ar/bQOxzg9W4HUWWLH1wnRi/u9o7Q6fYh0QJNCmhTJoywWYzhZ4t8HObL3LVYpzNCkEyUKk8wHn/BcDicO7S9cB7RzyEdFBAWKvx5NeI6KGY+quL29icTHc8dLh+k6Jab5W5k1hdysA4SEg4LpRpGo0vGCBIdfCQbnISS4ogxNfohSEgIRizy8WCARqMBiRxRfyj2ahzhfh266d1/yHK8ja9XV5hMJvPIZJ/YUFNLPBx3OTIlNJ2A3YQ2+ofHC0GdRB0kUxlGANVIQ2VzMhMWiBeJsbKITILVrWc8NmlJOrNt+xVYXgQneAw3qMHJxLDTJRYpC8MO2aVewQnZfMAFVd1BvdlCvfESxXINksME9s9+oXsxY/U3p3P2B72PM5x8vsPg8g4HF3/v6Z7P0P/0Dzu9H0jqNu8jXbVcIUa5ug3JYk6anRs02ze8vuhOsdOeYLczRfvgO1rta9TffcNzwd412zdFtXkOzXC4S+ohQb8n66ELTTegahp0w4BmWnAVGZGio6iYMBMJJNQkZEVl/VugKKyH+tqb8B+hrNyu9I4rnQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 64.86486486486486%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAA7DAAAOwwHHb6hkAAACIElEQVQ4y3WT224SURiF54mkcz4fGIZyBmkbRTCVWLEyUGhaYpR4QRtj6I3BG5tKQ7zzFeojqJj0wvdZ5t+wCSH04sves/f+117rnxlBM31wVMODYSfhJTNwg104fpqNtpdi67S/eZ5GRXexI5uQVBsC39StAKJioVx9grfvPuDV6w6aL4/ROx3gqBUjX9pjhdvE6OJu7wxxtw+BNmiRQ4eSUR67uTKCVI7No0yRueb7VMMFyUShtI/J5AuGw+HCoe1Fi4hBGn6YRZQtsefNiNugmJl8BXd3PzGZTBYO1wspuuWmmBtRNpmDbZAQd5gtVDEeX2E8HkOgwkeizkhIBoPPqdEPQUJcMF/ax/lggHq9DoEcUX8o9mYc7n4bmumtXmSxfICv19eYTqeLyGSf2JGNNR6Oux6ZEppOiKNWG/3T86WgRqIOFCMJxQgh6z5kzYMoGyv4RXwuLSOTYGXvKYtNWoJmBbCDEiwvDyd8DDeswkmWYfsF6FYKuh3B2MSJoNshE5Q1B7VGE7X6C+SKVQhOWEVn9Avdyzk6o9+MePQHvY9zvP98j8HVPU4u/67oXszR//QPh70fUDSb9ZE+tXS2jGLlAILlF9CIb9Fo37LxeXeGw/YUrXiG9sl3NNs3qL35hmec4xs04hkqjQuousNcUg8J+j0F1XChajpkVYWm61BNC64kIi9pyEkmzEQCCVmBKMkQ5SWSBEnRtn4J/wGhrNyuRZw2oQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
@@ -76,15 +78,15 @@
         loading=&quot;lazy&quot;
       /&gt;
     &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;このページを見てる方は&lt;a href=&quot;https://discord.com&quot;&gt;Discord&lt;/a&gt;は始めてだと思うので、赤で印をした&quot;登録&quot;をクリックして下さい。&lt;/p&gt;
-&lt;p&gt;すると次のような画面が出てくると思います。&lt;/p&gt;
+&lt;p&gt;このページを見てる方はDiscordは始めてだと思うので、赤で印をした&quot;登録&quot;をクリックして下さい。&lt;/p&gt;
+&lt;p&gt;すると入力が画面が出てくると思います。&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 436px; &quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 120.94594594594594%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAYCAYAAAD6S912AAAACXBIWXMAAA7DAAAOwwHHb6hkAAACiElEQVQ4y6VVy24TUQy9X1Qyk5nM+5npTJu2IEqFEJRQVKWogMqiSE0rNUIgURBlARIr9nwDr24Q34GKEAsk/sHYvrkzk0cXJIsj32t7nGv72BGmHYJCy4kYdN7avgf9owFs79yH7laP7w8f7cPJy1N4+uwEGk0HLDcu/RWEUtQN5Oj4KaSLHYjSAsIkZ/hRhroVyJcvTzygDOhHi+hcsGOSdcD2ktLYbPmIAAyrAul00yuDjUMoB4I8u6AZErpRnUud6bKvNsVG3wsNa7GgWXBJt4bSnhn0Q4LSMO2AU6ynNgsmaugG7ZFizwJBNaHnEg3mgw1NSrmhajhn/agHXEOiicI4p2aBCOIcovYSeGHGhFbFnTmgZjgjT1f1+D84FW0ooOLfvI3hgESVEOe1osz0ZTEN5Dsxy1RDmmGqYZ2k5Chn2a8R92I7SQ6omz54UQ6mE2PaDirpVTEvBQdf7ccFzqmHKblDu9xG9J0TZKWdWEKBhW7YYLRs0JotWGjoyEcDGrrJd92wkKzYLK2JNonKbtbsqEPopoMpp1chWepCUmyivD0K1MWIKJcyLW2bI3a6p8tdzHQVRHfvAxy+/Qv7r37A49OfU3AOz9//hsG7X+hzzvdx0Lf9N39g/c4LEBt3X8Pu4Dv0Dj5Cr/95iE8sdw6/MPaenMGD4zM8f50K8t09/gar1w9AhNkGBO1rEKTr4CdX+NlxfgNTucl3stlBZ9gs2bBKxmN33DaW18auJYiUZQs7aLltNKLOS6Uepe3haLJvxD7jgRVvBXEwK9Z4JxJoP6odGaa4I0PkaLw2bMQtCGKc+0jq3GiFM+JzUDCdBBGaAtCk0FlKGbT+h6W2+sVTIyfmH6W2UQWyZ5rbAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 120.94594594594594%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAYCAYAAAD6S912AAAACXBIWXMAAA7DAAAOwwHHb6hkAAACjklEQVQ4y6WVS2tTQRTH5xM19/1+Tm5y07RVrEVEY6yURKpSFxHaFFpEwSqtCwVX7v0MvroRP4dUxIXgd/jLmcm9uXl0YbL4cWbmnHsyc+Y/J8x0IhRYbiyg8fbOfRwcHmOn/wDd7Z6YP3o8wMmrMzx7fgJFd2F7SRlfwIqFqoMC3YCDN9qIeY4obQqCOANvrKG5emVmA2XCIG4gSnMRmGZtOH5aOnUrgG6FMOwxtKaZfplsGlYEEHLsQTUkmjEel2umJ2LVOT76nqm6ixXVRk2zR9ZZGPohRscwnVAcsXq0RZipoRfWJ4q9CIxqQtslGSyHA52OrBQ1XLJ+dAeihiSTgmlNLQILkybiegt+lAlBF8VdOKFquBNbL+rxf7hj2VDCQn/LXoxISFKJeF6RzPxmMQ+KnXnLVEN6w1TDqkgpUL7loCLcy/1kRULNDODHTZhugprmwnRoV4loCm5YR5DkUA0fiu6N/LIb0XdumJV+UgklZprhwLAcqLqFFUVDTTWgaKaYa4YN3XRQU3WsKJKx36z4DSiqAc10wUJ+DWmrizTvIG3dmSTvIMk7iJvS8tLXmfDTnK924cfrYN29Dxi+/YvB6Q88Ofs5hwu8eP8bx+9+YXB6IebT0LcHb/5g8+5LsK17r7F7/B29/Y/oHXwe8UnY/vCLYO/pOR4enaM//DoXit09+ob1G/tgUbaFsH4dId9EkF4V206aN5Hkt8ScfE7YHl2WvLCxTabmMZjt12F7KWyPC2t5CWyvDstNYftcrvscjp9BxsYiZjpxoVtGGszyDdETCeqPRY+M+Bq8qA0/2RhdxG2ESQt+LNe8eE2cSIzDXMiJkaApAb0UGksrk1b/sIqufvmrkS/mH6W2UQWucAIYAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
@@ -99,7 +101,8 @@
         loading=&quot;lazy&quot;
       /&gt;
     &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;ここに、下記の情報を記入して&quot;はい&quot;を押してください。&lt;/p&gt;
+&lt;p&gt;この入力画面から下記の情報を記入して下さい。&lt;br&gt;
+13未満のお子さんの場合は、必ず保護者のアカウントとして登録して下さい。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;メールアドレス&lt;/li&gt;
 &lt;li&gt;
@@ -109,21 +112,16 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;パスワード&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;生年月日&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;13未満の子供の場合は、必ず保護者の生年月日を設定して下さい。&lt;/li&gt;
+&lt;li&gt;生年月日&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;記入して&quot;はい”を押すと、次のような画面が出る時があります。&lt;/p&gt;
+&lt;p&gt;記入して&quot;はい”を押すと、次の様な画面が出る時があります。&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 571px; &quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 103.37837837837837%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAVCAYAAABG1c6oAAAACXBIWXMAAA7DAAAOwwHHb6hkAAACXklEQVQ4y51U23LaQAz13/QhLQ3hYmzjGza+gsFgIKFhmnQm08lDpy/9/xNp3V0cE5eZPgiLlXx0dCSvNjZcsI0mjnpKf6jbyu+ydlz7KHgGnKoCTRs0/Dao1sVwMJ7ibmQK35jOYNqBsrkT0lkA3fSuM7ys7GDqRnD8BLYXwya/8GO4fgqLgDsBmwEJyhoySz4z6WXLmcMghiNrhgmZbvr/ZtgEnlh1shuk8Oc5omyNbFnBmSUYUaHB2LoYYqeGph2K9lgvP8yRFRVuen18uukJPZk5M7w6ZZnA2rBmQjti9PrrD15ef+Pz1wFsP0KclyLOoFc1lC1wy8xwRGe2F+H0/FO0zVpO3Xn3HraHMRT68MpY6A9NYXdktwPj3Tn7bO33tSYQPx1eCWpznhSI0gJxuoJPg2FWDrXLvh+mIiegYckvik0xZKFr3eK/QCvs7k94+PaE4+OzOgvjBYpyj/X2HnmxRbHeq3e5oGDIP36YiYRsucFmd8Th+F34QZQjJt2W652IV4cTyuoBq80B1f6RCiwFiWyxETksgSYp85/+0EK6KJHQFJkVF2IWRXkQrTMzBuRinMPspJasrWr5vJyOCLBxUv2l1EOQz15fx5dbXQxJ6tbcDq296e2Jn2N1XkISlMTUo6HwuSx+ASgBuA2DdpBF5kHMaJLyGuPbxbA8RMkCp6cXwbisjkJnWfwdQ/7cnFkslpqNNfNoTZr7ZruBYBtlGwG4WO1I063KuQD0aMfkLcKgdfu26iCm3eQtOJ5+KA3lvfhhy8Oxfb4X9YY/sdXQmpq1TesK/K+9AXNB0ijchNHiAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 103.37837837837837%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAVCAYAAABG1c6oAAAACXBIWXMAAA7DAAAOwwHHb6hkAAACWklEQVQ4y51U23LaQAz13/QhLQ3hYmyzttf3CxgM5hIapklnMp08dPrS/z8ZyfViTCgzfRAWK/no6EhebWw4IBtNbPVs/KEulH/NunHto+AJcKoKtG3Q8rug2jWGg/EUDyOTfWPqwRS+stAOYEx96KZ7m+FlZRtTJ4ItEwg3hnAiFDKGI1NYdnAdsB1oQElDYklnph3AskMYwsfI8jCxPOim/DfDNvDEqpMdP4UMc0TZEtm8gu0lGOkCg7F1McSrGpoi4PZILxnkyIoKd70+Pt31WE9iTgxvTrlJIG1IM9bOS/D26w9e337j89cBhIwQ5yXHCfSmhk0L1DIxHBkOhBvh+PKT2yYtp054fQ+7wxiyPrQyFvpDk+1haOJ+YJydk0/WfV9rA9HTppXwEoRJgSgtEKcLSD9lVraM2JdByjl+mKsvikwxJKFr3eK/QAts9kc8fnvG4elFnQXxDEW5xXK9R16sUSy36l0qyAzpRwYZJ2TzFVabA3aH7+z7UY44W2K+3HC82h1RVo9YrHaotk8I4jmTyGYrziEJtIYy/ekPLaSzEkleMisqRCyKcsetEzMCpGKUQ+waLUlb1fJpOW0OkFFS/aXUQ2ievb6OL/c6D6nRrb0dWnfTuxM/xeq8JFuiXO/hegmfN8UvABsAasOwJItMg/DCXF1jdLsYlosomeH4/MqMy+rAOjfFzxjS52Z7MS81GWnm+unZvgnHZ7ZRtmLA2WKDbL5WOReAbpCqW4RA6/aF6iBOC96Cw/GH0rC5Fz9seTgWp3tRb/kToYbW1qxr2rXA/9o7c0HSKDolik8AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
@@ -139,38 +137,37 @@
       /&gt;
     &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;好きな方を選択して認証を完了させて下さい。&lt;/p&gt;
-&lt;p&gt;認証が完了すると、Discordへログインが自動で行われます。&lt;/p&gt;
+&lt;p&gt;認証が完了すると、Discordへ自動でログインされます。&lt;/p&gt;
 &lt;h1&gt;3. 安全に使うための設定&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;https://discord.com&quot;&gt;Discord&lt;/a&gt;を安全に使うための設定を行います。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://discord.com&quot;&gt;Discord&lt;/a&gt;にログインすると、画面の左下に次のようなアイコンが並んでる思います。&lt;/p&gt;
+&lt;p&gt;Discordを安全に使うための設定を行います。&lt;/p&gt;
+&lt;p&gt;Discordにログインした画面を開いて、画面左下から次の画像の様なアイコンを探して下さい。&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 236px; &quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 110px; &quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 21.62162162162162%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAECAYAAACOXx+WAAAACXBIWXMAAA7DAAAOwwHHb6hkAAABEklEQVQY0z1Qy0rDUBTMlyiRNrk3t7FpkzY3JW0xVZJCq2AMWlBw46M+6EK/xZ9w50J0JQiuxKXfcf/gjMcgLoY5M5wzDMdyhDKRHpt4uG0c6Rup2sbzO6bd6Zmwp43XCmpPeJs1O8zu78y7NuvSkeZ2o2mWa7bJXGWsSI/w+vaBz69vbE1m6Ccp8ukMZbXAyekZDsoKrlDgYDRchZ1RhnwwqvV4OsdxEGLBN+cX11hJBSsZZvT88k4PT4+kqzlNsoL2q0MqihlxI1J+QNyunpuiRUWSko40dRn5Xkm7rO/7CV1d3tCdVGQ5soVumMLPxhBpjCjUiOIBexpC+uAwcNg/81tqSNbiD0cNF8t1G7nr4QeFHojOE+bzcwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 44.54545454545455%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAYAAAAywQxIAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAB4UlEQVQoz3VR3WpTQRjMA/gA2uTk/O/u2d3zk9hQY00TtIhQtWpF0drW0DRCvbBYIlWK+NMURVor6IVXglYEb/Sib7PPsoycrScEwYth5huWYb79SpFIVQ7GE8VlNtLjnPs5mEiV4ImakJmqiVR9CIj65vrqIhPqpMhULDNVikQKxhPk7PoUhEmMeyEVCAg34DyBK1IsUo5fFQsbp8roeSGObBdrIYUb11FiPNFcZtoLmO6uPtCt9gXth5HxQir0TGdW31lc1nNz89qKEn2Pcv27XNFXp6b16uCp5uc6OiZcH9mOvhlJPWookzq+Hv5Ar78OL2DGS2sNXF+4bZpeuXwNSWcWO1UHD5nAYO8A21vbeP9uHxPZJPoBxX5AYQLzNaeaLbx8vYuVbs/MOeqTZ/D8xY4J3Nx8gpn5BWxUbGyRCIPhWwxfDbE7fAM/ruEWifAxIGZlcJnBDyO02ucRp6dNWOGvdNdM06Wl+xDTbXR9gi9VG1ajibv9dfBGEyd4gmcBwV4e+O8BCl34jkdAoxiuR0YH++QFOKzauGQ5uBEyHHgBftoOzor0OHA8tNDFnLcsmIsUVKSoigyPQ4rvno/Pno9HITXvw7j2/8BCj4PlnH8FT2DJDOW/qMjs+LCyhj8woSdNb7l1hAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;user panel&quot;
         title=&quot;user panel&quot;
-        src=&quot;/static/b193932b5f2ae8ba632e9cd551e0e77d/a7bcd/user_panel.png&quot;
-        srcset=&quot;/static/b193932b5f2ae8ba632e9cd551e0e77d/12f09/user_panel.png 148w,
-/static/b193932b5f2ae8ba632e9cd551e0e77d/a7bcd/user_panel.png 236w&quot;
-        sizes=&quot;(max-width: 236px) 100vw, 236px&quot;
+        src=&quot;/static/719cfdcf75a1858e0cd9fd7f11257b1c/23543/user_panel.png&quot;
+        srcset=&quot;/static/719cfdcf75a1858e0cd9fd7f11257b1c/23543/user_panel.png 110w&quot;
+        sizes=&quot;(max-width: 110px) 100vw, 110px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
       /&gt;
     &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;ユーザーの設定を行うため、赤で印をした&lt;img class=&quot;emojione&quot; alt=&quot;⚙&quot; title=&quot;:gear:&quot; src=&quot;https://cdn.jsdelivr.net/emojione/assets/3.1/png/32/2699.png&quot;&gt;マークをクリックして下さい。&lt;/p&gt;
+&lt;p&gt;見つけたら、赤で印をした&lt;img class=&quot;emojione&quot; alt=&quot;⚙&quot; title=&quot;:gear:&quot; src=&quot;https://cdn.jsdelivr.net/emojione/assets/3.1/png/32/2699.png&quot;&gt;マークをクリック。&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 179px; &quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 62.83783783783784%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAA7DAAAOwwHHb6hkAAACo0lEQVQ4y42T2U7bUBCG8yJVLwpktWPHdjY78Zqd7AlLSrOhAFUDCSBULiiFAhdVqz5GX/Pv75QgcVP1YjQ+njnfmfPPnICsZiAraahJA3mrCFXLQkvnYJgecnkXCTUNUdIQl5P/ZYFKvcuNDvS8h05vH1pSh/9vNDnG4GCMZEqHEFdfbfrXAQEpkVoliNLfxEhMhuRXzEpVwtfxNegF5n8/+1fAuKhA8iugTxKQyZrQCJOZKNEUwmUfKqoradawdfwF+gwOmK0dOK0ejFoHeqGCYrMPb7uN2t4Q5d7uap0vlqEYLqr1HhyviDDhmzwkRID8DBPXFd6msrhJZXDJpnxVNDwoSdwIMr4bFr6pSTxqGdxLCp609MrfiRKuQ9GVbQsJvCNYWEtAC/x+8xYHm2G0QzHUYxJsamgT6IYFeBFx9e1QDt/r9BlaljlV5n7ZDOGSYIUgHyr5FZY4Gkazh5RVQCxlQErnoeg2MnYRaafMtYEYNRUZi2s6ZHqzWIXij5Tl4URScRcRIPG/38TAoDfAx+NPGA5nGI4mmE5PcPB+hPn8DNPxEfb6e2jU2ygR4rpleIUqfvz8heXZArcPD3CbbVwHozCT2dVhgSUTgxxiq96BW2nAKjdQqjeR9iqwG33YbJioW4hm8hAMG0LORW04hdvdwZiFdN0iHnntLKtL+MCnjS0sqN95MIKrjSCufF22IrjkesmrjJk8icZxKMo4pF/QTqnvgrHPzH3aCuOAMYGyKHx1AYsnTnMWJl4JddNF0y6gpZvosqoPmRwuTAennIQJm3KkprBPzdoEdrm22eEgZzj88jjY5dHRHLPzCyxv7zE6nGE2v0Cl0UClvQuZo+PyynatDb3cRKHVgccGKmygRnNKdThOCf3dwaoh/hP9A5KWxjCRUwMPAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 62.83783783783784%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAA7DAAAOwwHHb6hkAAACtElEQVQ4y42TW2/TWBCA80dW+7C0ceJLjmMfO74ksWPnWnJrUlq63aRJ1RZEoaUVWh6gwJY+IFb7M/ZvfisbUokXtA+jmXNmzjejmTMF0/YwrRq2E9KIOtjSR9bqhM2UeiOhatcwhKRiOv9LCv3hjHqjRdBI2Z0/RToB2d1ydc7h0TGOG6BX7B8e/SxBQVTdPMAQ3wLLmonIKpY+thOw8W9AD7DM/q5/AFYMC5FVYFg4ToDnN5HSxxQSISSWVcPMoIadt2YD2/gfoN/BhebkCa3JnHBnl6DdpzPeI308ZedgQW++n58bnR5WmDAYzmmlHUqGzVbVRTGdHPxQbQa8dX3euR43TsgHS3JnObzTTb6EEX/ZDp+lxydhcS9ruf5oCN4qai6P9Sq/VV30TQuEpPDvL79ytFViqmgMNUGsmcS6SVLSSctGbrcMK9eBYeEZFr5mMtAE77cUbhQVS8gcKrIKu42EcDzHjdpoboioNbCCGC/uUGv1ELUQTfoYbkhFBphuSLMzwMq+VJTyTNh8LOsIN8yHWDicH/L8/AWLxSmL5Yr1+hlHvy+5uHjF+viMg70DRsMp3c6AJOmRtgd8/fsfrl5dcnt3RzKe8rao0nT8PFnhqjOg2EyJhrsk/RFRb0R3OKaW9olHe8STOUYQoXoN9DBGryfsLNYksyccn79glnT4rKj4TkA1A94/2uZS0XhdLPPmUZE3WV+2y9wUy1yVdY4VlZVa4cQwOVErXKoVXpZ0Lss6f24p3G+XODJMdOlj2R6FqJ6wrkes0i7DZsI4bjMJmsyCiD+8OtfNFi9dn5Vucma7PBU205LOTDeJqy7Fik3pYTkkheXZBaevr7m6/cTy5JTTi2v6oxH96T5mGJFM5sQ7U4LemPZkl3Q8x4rayKhNqzuk1eqyt3+YDyRb0f8AkpbGMF+ce+MAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
@@ -184,15 +181,15 @@
         loading=&quot;lazy&quot;
       /&gt;
     &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;ユーザー設定画面が表示されるので、左のリストから&quot;プライバシー・安全&quot;を選択して下さい。&lt;/p&gt;
-&lt;p&gt;すると右側の表示が変わるので、次の画像と同じになるように設定して下さい。&lt;/p&gt;
+&lt;p&gt;ユーザー設定画面が表示されるので、上の画像の様な&quot;プライバシー・安全&quot;を左のリストから選択。&lt;/p&gt;
+&lt;p&gt;すると右側の表示内容が変わるので、下の画像と同じになる様に設定して下さい。&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 573px; &quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 112.16216216216218%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAWCAYAAADAQbwGAAAACXBIWXMAAA7DAAAOwwHHb6hkAAACqElEQVQ4y51U2W7bQAzcL2lzOgmSJr5k3bIsy7IsH7GRq0URpGgRoAWC9qX/P+VQkWsbQRr3YUDuijtLDrkyrThGx4mQ5QX8oIv3uwc4qJ1g//AYewdHr2J3vyYQK/7O3iGOTj7ANIXQcbuIegn8MIbleHD9EFbHQdNy0BI0Wh20bQ+OF4pvSQI+Gk0L73b2haimZEykdnwG4zltnJ63JVAI2i7aHV9IPMXZeWsNpxvr87q1hrpwmFkewg0HCMIEcTLEYDhBko6Q9HPYbiTZhGJDta7PaiKpovTrTVuJLhodtUzKRK6Ni6YLyw4UFUm1ZsalDdB5Jqt8EpC03iwtKzS514XlxQi7qd7qS6Yk1RIkqNFy9SDBTAju067uVWuTeZKREPpBD94ztDRBN8lEginSQYF+Vuhlrnzn5UQQ9ZfkS0LLDtGSEjbR3rDqS2wFLV1tpOjIpBDGDRJ4YQq/O4AfpeL316wSyYG/RKXftHz9xrUtFV6Ijo22B9PPxkikpGQwRj5eIGWJ2UT8OabzGwzyKXr9kX5nXBRnUv4E8+uPGuPLxSS7f3jE1d09TE9GJBvNFCQjKfd6aSHrCYrpFUaTBYbFXPXMRpcYz8o9EvIyZnj/5RHXJOSh2eIOi+tPGsyDJMnymcxjIY3J5RVlCEQST5oS9YYIJUvH76kslSWpakiHm9SSWFuLrTSrxF/VchXLplRBq118KfCt0AyZDctgV+mvBmxm8hIYV42YiUVUgp1jM6jVtpmxKnJQX8OGxCI8Z6gqeZvMqhl8+vkbD99+wLwm8DbgoJPL6FuV0ZkubpEXlzqP1PGtxGWGLp5+SYZfv8P8Tzab4OXaVNHflIM71KfFpnTlJ1sF/VvLkpD6L19K+QpS7RLJ2GV7a/0CXN1+xuTyBn8AOxHo3TszDqgAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 112.16216216216218%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAWCAYAAADAQbwGAAAACXBIWXMAAA7DAAAOwwHHb6hkAAACrUlEQVQ4y51Ta0/bQBC8X9ISEhIQLSR2bJ99Pr9fcR4k4tWqQlStkFoJtV/4/1PtGkdJiijph9Hunddzs7N3wowi2DJAUdVQfoj3nR56/RN0j45x2Bu8ik63j053gE5vgIPDIwxOPkIYUQTphgjiBEpHsKQHV2lYtoRhSZiWxMi0MXY8SE9jZFqwpcLIsPDuoIuDwz6TkZD+8QcIT45xejbGyJQwxi7GtoJpeYwPZ+YWTnfWZ0NrC0NTQiwqDVfn8HWCKCmRlzMk2QRJWsFxA9hSw3E1R1dRNwGs53xoOEx0PrI5kigRuA7ODReW4zNaknZNipvow34ma3MiINKh0UTqUFReCMuLoMOMT1U6YVJuwXAwMl3+kUBKCLRPcXOvXYvCC2B7EZQfw3sGt6YihEmBvJwjy2ukRc2HuX7MhxP8IF2TrwktR8O0/b8w3omcO3oNbp1jwLDdkCFcP4GnM6gwhwoyeDrdikwkgw2iJjcsxd9o7XgRzg2J0diDSIspkrxGkk9RTVfIqMVihmq6xHx5jbyaI04n/J3qgqhAWsywvPrENUqnTHZ3/4DL2zuIOJugmCwYREaktBdnNbJyhnp+iclshbJesp/F5ALTRbNHhHQYKbz7+oArIqSfFqtbrK4+czH9SCRFtUCS1QiTCkFcwA9zeDpBEJfQUQGpYraljUTKHlJCm+QlYWut4rVnrfmbXm5iPZS2aHOKLxW+FayQ1FAbNFXKNwt2lbwEqmuvmIjSCQg0ORoGebWvMuqKOMhfQQOJkorvUNvyPsraO/j46wn3339CvGbwPqCLTlyC32o5w3x1g6q+4PtIPr6VuFHo4vH3E+6//YD4HzW7oMN5qGEO0Vzckp8WDSVMynXRv71sCMn/9UtpXkHGUyIymrKzt38+Lm++YHZxjT87EejdXjGsOgAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
@@ -207,15 +204,15 @@
         loading=&quot;lazy&quot;
       /&gt;
     &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;設定によっては次のようなポップアップが出るので&quot;はい&quot;を選択して下さい。&lt;br&gt;
-間違えた場合は、一度戻して再度同じ設定を試せば出てきます。&lt;/p&gt;
+&lt;p&gt;下画像の様なポップアップが出た時は、&quot;はい&quot;を選択して下さい。&lt;br&gt;
+間違えた場合は、一度設定を戻してもう一度同じ設定を行って下さい。&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 420px; &quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 43.24324324324324%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAYAAAAywQxIAAAACXBIWXMAAA7DAAAOwwHHb6hkAAABaElEQVQoz42QWVLCQBCGcyBkDVlJIEBCFkgIkISdYpESHzyGt/EC6pOHUt9+pwe0XErl4au/Z7rn754WojhDMl4gnSyx3V9zHU9XWK33iEcTzJdbDJMZNpcHBOEQm90BV9c3kNQ6qor5BboTmraPlhOg40cYMAPX76MbjTiOG3ITx4vQDUew2j7COEXGmtJjUTa4vkOmAhUsVjtkbKphOsN0vkY0yDheEB+NvRBGw2GNu7DdHv/JIJmiFyXoD8e8qW62j4a62UKtbp9oc6UkqVprgvKKbrHY4mfNaMG0OlwJuqP8x4Q09m9QgSibP3bFc/Rd2htDJpghIXwv/ovP+xLZOc+a5ZUTrEGJJiyUJJyHjHyxitxFBbmCCKksI5E0JBWmLM5Y7IgKBCr6DzLM5SvQag0EQR9Vo4mYGb3YNl6zFM+LBdBxcFe3zp+QjMuiClWroyjp6DDDh4aFR9fDvevjyWriVjfwBjPSP6yNKyEWAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 43.24324324324324%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAYAAAAywQxIAAAACXBIWXMAAA7DAAAOwwHHb6hkAAABcUlEQVQoz42QW3LaQBBFWRDBNhIaPZCEAAkhYQkBQoANlB9xxf7IMrybbCDJVxaV5O+keuyk8qgk/jh1a/r23OnpVlk11Js96+2Bm7sHrZvdkePVHdVqy+XhhmV9wfXre/JiyfXtPW8e3mI5IT07+AWptYZxxijJmWQli9WWNJszK1eaJC10SDItmRUronFGUa1ptgd92VS+1u9IaEsa9sdbmt2R5fqC3eUV5aLRTPPqKXha4A8SRsmMOD3XP1nUO87Lmvlyox/1gvFToBeM6IfxM2OtYoo6/SHi216E04/02fVHBNFEqyA18X9MKGP/DWkwVfDHrrQn35W92QFKcEJN6/fmf/Hzvkw7oKMCOvYzyudMJjw5s3gZis5pj/Yrg/aJidVV1JZLbSjqrqKxXBLTpiVN/0MC2x0Dtz8gz+f0/CGVofgSx3xt1nze72GS8C6MXj6hBHdNB8cNObU8JobiwyDiYzrlfZrxKRry6Pl8AzPSP6zp4B0PAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
@@ -232,9 +229,33 @@
     &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;設定が完了したら、右上の&quot;X&quot;ボタンかESCキーを押して画面を抜けます。&lt;/p&gt;
 &lt;h1&gt;4. CoderDojo東住吉のサーバーへ参加&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;https://discord.com&quot;&gt;Discord&lt;/a&gt;はサーバーと呼ばれるグループに参加することで、そのグループに参加してるメンバとコミュニケーションを取ることが出来ます。&lt;/p&gt;
-&lt;p&gt;下のリンクをクリックして、CoderDojo東住吉のサーバーへ参加して準備完了です。&lt;/p&gt;
-&lt;a href=&quot;https://discord.gg/sT6K3bspqz&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; class=&quot;button special&quot;&gt;
+&lt;p&gt;あともう一息です。&lt;br&gt;
+Discordはサーバーと呼ばれるグループに参加することで、そのグループに参加してるメンバとオープンにコミュニケーションを取ることが出来ます。&lt;/p&gt;
+&lt;p&gt;CoderDojo東住吉のサーバーへ参加するために、下のリンクをクリックして下さい。&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://discord.gg/sT6K3bspqz&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; class=&quot;button special&quot;&gt;
 CoderDojo東住吉 Discordサーバー
-&lt;/a&gt;</content:encoded></item><item><title><![CDATA[Test Post]]></title><description><![CDATA[Test Test test tester!]]></description><link>https://coderdojo-higashi-sumiyoshi.github.io/2021-04-14-test-post/</link><guid isPermaLink="false">https://coderdojo-higashi-sumiyoshi.github.io/2021-04-14-test-post/</guid><pubDate>Wed, 14 Apr 2021 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;Test&lt;/h1&gt;
+&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;下の画像のような招待画面が出るので、&quot;招待を受ける&quot;ボタンをクリックして参加完了です。&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 523px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 38.513513513513516%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAICAIAAAB2/0i6AAAACXBIWXMAAAsTAAALEwEAmpwYAAABY0lEQVQY022My0sCYRTF5y8JAknUtJnvm+8xo6bRQhDykZKpozNI5AsdkjTNCBKtRYt0cCM+2mT9bZFE2a5VjJZaBD/OvZx7zmWw4MKCi4puK0f63f5tveX1hQ9jykE0qaTSvmCkfFY/rZyrpUo0rgBkJ6J7XsGCi5kPIrptUOi12tfqhWcvmDrKRCVFTh3LqbR6Us7k1UyuGI5IEDv+LwNeXLNajCwLILFYOaPZat5kDRumdYPJYgMsxAajhSfO32XRrWPf4YnTRgRA7BCJAIkcpBykLCAAiTxxIOrc4jASXN/52QsGIgIRhYjymPJYmO8QUYDmu6CbeBYgyytEFFEnkyg+RLP9WG64JDuUCyO5oGuyMJLyujPzB4tMPH+/44kxl73Pavu5pk0WVLVJ5/FDe5q2x9O78Xtz8FrtTFYDNe2l3n3zhkrMvnzjj18FpMYq/rhO4Ef/XANSI5hobu+GvgCEkKZZcuAd+wAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;invitation&quot;
+        title=&quot;invitation&quot;
+        src=&quot;/static/b582dca58f2f42a5024f19003fef80a8/3e286/invitation.png&quot;
+        srcset=&quot;/static/b582dca58f2f42a5024f19003fef80a8/12f09/invitation.png 148w,
+/static/b582dca58f2f42a5024f19003fef80a8/e4a3f/invitation.png 295w,
+/static/b582dca58f2f42a5024f19003fef80a8/3e286/invitation.png 523w&quot;
+        sizes=&quot;(max-width: 523px) 100vw, 523px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;パソコンによってはエラーが出る場合がありますが、その時は気にせず画面に出てる&quot;Discordで開く&quot;ボタンを押して下さい。CoderDojo東住吉のサーバー画面になると思います。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Test Post]]></title><description><![CDATA[Test Test test tester!]]></description><link>https://coderdojo-higashi-sumiyoshi.github.io/2021-04-14-test-post/</link><guid isPermaLink="false">https://coderdojo-higashi-sumiyoshi.github.io/2021-04-14-test-post/</guid><pubDate>Wed, 14 Apr 2021 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;Test&lt;/h1&gt;
 &lt;p&gt;Test test tester!&lt;/p&gt;</content:encoded></item></channel></rss>
