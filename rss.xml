@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[CoderDojo東住吉]]></title><description><![CDATA[子どものプログラミング道場]]></description><link>https://coderdojo-higashi-sumiyoshi.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 20 Apr 2021 12:19:11 GMT</lastBuildDate><item><title><![CDATA[Discordの始め方]]></title><description><![CDATA[Discordはチャットやオンライン会議が出来る無料のアプリです。 このページではDiscordの始め方を説明します。 CoderDojoがオンライン開催の時は、Discordを使って質問や発表が出来るので、オンライン会議に使えるデバイス(パソコン/タブレット/スマートフォン)上でDiscord…]]></description><link>https://coderdojo-higashi-sumiyoshi.github.io/how_to_start_discord/</link><guid isPermaLink="false">https://coderdojo-higashi-sumiyoshi.github.io/how_to_start_discord/</guid><pubDate>Sun, 18 Apr 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Discordはチャットやオンライン会議が出来る無料のアプリです。&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[CoderDojo 東住吉]]></title><description><![CDATA[子どものプログラミング道場]]></description><link>https://coderdojo-higashi-sumiyoshi.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 21 Apr 2021 10:55:33 GMT</lastBuildDate><item><title><![CDATA[Discordの始め方]]></title><description><![CDATA[Discordはチャットやオンライン会議が出来る無料のアプリです。 このページではDiscordの始め方を説明します。 CoderDojoがオンライン開催の時は、Discordを使って質問や発表が出来るので、オンライン会議に使えるデバイス(パソコン/タブレット/スマートフォン)上でDiscord…]]></description><link>https://coderdojo-higashi-sumiyoshi.github.io/how_to_start_discord/</link><guid isPermaLink="false">https://coderdojo-higashi-sumiyoshi.github.io/how_to_start_discord/</guid><pubDate>Sun, 18 Apr 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Discordはチャットやオンライン会議が出来る無料のアプリです。&lt;/p&gt;
 &lt;p&gt;このページではDiscordの始め方を説明します。&lt;/p&gt;
 &lt;p&gt;CoderDojoがオンライン開催の時は、Discordを使って質問や発表が出来るので、オンライン会議に使えるデバイス(パソコン/タブレット/スマートフォン)上でDiscordを使う準備をお願いします。&lt;/p&gt;
 &lt;p&gt;Discordをお使いになるデバイスで、このページを見るとスムーズに始めれると思います。&lt;/p&gt;
@@ -248,13 +248,13 @@ Discord
       /&gt;
     &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;設定が完了したら、右上の&quot;X&quot;ボタンかESCキーを押して画面を抜けます。&lt;/p&gt;
-&lt;h1&gt;4. CoderDojo東住吉のグループに参加&lt;/h1&gt;
+&lt;h1&gt;4. &quot;CoderDojo 東住吉&quot;のグループに参加&lt;/h1&gt;
 &lt;p&gt;あともう一息です。&lt;br&gt;
 Discordはグループに参加することで、参加してるメンバとオープンにコミュニケーションを取ることが出来ます。
 (Discordではサーバーと呼んでいます)&lt;/p&gt;
-&lt;p&gt;CoderDojo東住吉のグループに参加するために、下のリンクをクリックして下さい。&lt;/p&gt;
+&lt;p&gt;&quot;CoderDojo 東住吉&quot;のグループに参加するために、下のリンクをクリックして下さい。&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://discord.gg/sT6K3bspqz&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; class=&quot;button special&quot;&gt;
-CoderDojo東住吉 | Discord
+CoderDojo 東住吉 | Discord
 &lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;下の画像のような招待画面が出るので、&quot;招待を受ける&quot;ボタンをクリックして参加完了です。&lt;/p&gt;
 &lt;p&gt;&lt;span
@@ -278,5 +278,5 @@ CoderDojo東住吉 | Discord
         loading=&quot;lazy&quot;
       /&gt;
     &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;パソコンによってはエラーが出る場合がありますが、その時は気にせず画面に出てる&quot;Discordで開く&quot;ボタンを押して下さい。CoderDojo東住吉の画面になると思います。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Test Post]]></title><description><![CDATA[Test Test test tester!]]></description><link>https://coderdojo-higashi-sumiyoshi.github.io/2021-04-14-test-post/</link><guid isPermaLink="false">https://coderdojo-higashi-sumiyoshi.github.io/2021-04-14-test-post/</guid><pubDate>Wed, 14 Apr 2021 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;Test&lt;/h1&gt;
+&lt;p&gt;パソコンによってはエラーが出る場合がありますが、その時は気にせず画面に出てる&quot;Discordで開く&quot;ボタンを押して下さい。&quot;CoderDojo 東住吉&quot;の画面になると思います。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Test Post]]></title><description><![CDATA[Test Test test tester!]]></description><link>https://coderdojo-higashi-sumiyoshi.github.io/2021-04-14-test-post/</link><guid isPermaLink="false">https://coderdojo-higashi-sumiyoshi.github.io/2021-04-14-test-post/</guid><pubDate>Wed, 14 Apr 2021 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;Test&lt;/h1&gt;
 &lt;p&gt;Test test tester!&lt;/p&gt;</content:encoded></item></channel></rss>
