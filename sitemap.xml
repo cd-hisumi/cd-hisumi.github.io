@@ -3,7 +3,11 @@
 <url> <loc>https://coderdojo-higashi-sumiyoshi.github.io/posts/2021-04-14-test-post/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://coderdojo-higashi-sumiyoshi.github.io/posts/2021-04-24_launch_dojo/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://coderdojo-higashi-sumiyoshi.github.io/posts/how_to_start_discord/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://coderdojo-higashi-sumiyoshi.github.io/blog/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://coderdojo-higashi-sumiyoshi.github.io/tag/blog</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://coderdojo-higashi-sumiyoshi.github.io/tag/tips</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://coderdojo-higashi-sumiyoshi.github.io/tag/online</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://coderdojo-higashi-sumiyoshi.github.io/tag/discord</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://coderdojo-higashi-sumiyoshi.github.io/generic/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://coderdojo-higashi-sumiyoshi.github.io/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://coderdojo-higashi-sumiyoshi.github.io/posts/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
