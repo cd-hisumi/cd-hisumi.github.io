@@ -1,4 +1,172 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[CoderDojo 東住吉]]></title><description><![CDATA[子どものプログラミング道場]]></description><link>https://coderdojo-higashi-sumiyoshi.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 15 May 2021 08:14:59 GMT</lastBuildDate><item><title><![CDATA[プログラミングでポケモンをうごかそう]]></title><description><![CDATA[Pokemon WS logo CoderDojo Japanのプレスリリースにもありますとおり、全国のCoderDojoでポケモンのキャラクターを使ったワークショップが出来るようになりました。 プログラミングでポケモンを動かすワークショップが、全国のCoderDojoで実施可能に。 | CoderDojo Japan…]]></description><link>https://coderdojo-higashi-sumiyoshi.github.io/2021-05-01_pokemon-ws/</link><guid isPermaLink="false">https://coderdojo-higashi-sumiyoshi.github.io/2021-05-01_pokemon-ws/</guid><pubDate>Sat, 01 May 2021 14:58:17 GMT</pubDate><content:encoded>&lt;p&gt;&lt;img src=&quot;/assets/images/pokemon/Pokemon_WS_logo.png&quot; alt=&quot;Pokemon WS logo&quot;&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[CoderDojo 東住吉]]></title><description><![CDATA[子どものプログラミング道場]]></description><link>https://coderdojo-higashi-sumiyoshi.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 15 May 2021 08:20:53 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><description><![CDATA[CoderDojoとは...  じかんわり  13:40 ~ 14:10  プログラミング、ワークショップ 14:10 ~ 14:20  きゅうけい 14:20 ~ 14:50  プログラミング、ワークショップ(つづき） 14:50 ~ 15:20  作品発表 (希望するニンジャのみ、とちゅうでも :+1:) 1…]]></description><link>https://coderdojo-higashi-sumiyoshi.github.io/materials/welcome_slides/</link><guid isPermaLink="false">https://coderdojo-higashi-sumiyoshi.github.io/materials/welcome_slides/</guid><content:encoded>&lt;!-- _class: lead --&gt;
+&lt;h1&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/13t5P1gojsde_gvcvDnPsfHYIqsS-knqWGDxyh3eG8SU/edit#slide=id.p&quot;&gt;CoderDojoとは...&lt;/a&gt;&lt;/h1&gt;
+&lt;hr&gt;
+&lt;h1&gt;&lt;img class=&quot;emojione&quot; alt=&quot;⏲&quot; title=&quot;:timer:&quot; src=&quot;https://cdn.jsdelivr.net/emojione/assets/3.1/png/32/23f2.png&quot;&gt; じかんわり &lt;img class=&quot;emojione&quot; alt=&quot;⏲&quot; title=&quot;:timer:&quot; src=&quot;https://cdn.jsdelivr.net/emojione/assets/3.1/png/32/23f2.png&quot;&gt;&lt;/h1&gt;
+&lt;p&gt;13:40 ~ 14:10 &lt;img class=&quot;emojione&quot; alt=&quot;💻&quot; title=&quot;:computer:&quot; src=&quot;https://cdn.jsdelivr.net/emojione/assets/3.1/png/32/1f4bb.png&quot;&gt; プログラミング、ワークショップ&lt;/p&gt;
+&lt;p&gt;14:10 ~ 14:20 &lt;img class=&quot;emojione&quot; alt=&quot;🍵&quot; title=&quot;:tea:&quot; src=&quot;https://cdn.jsdelivr.net/emojione/assets/3.1/png/32/1f375.png&quot;&gt; きゅうけい&lt;/p&gt;
+&lt;p&gt;14:20 ~ 14:50 &lt;img class=&quot;emojione&quot; alt=&quot;💻&quot; title=&quot;:computer:&quot; src=&quot;https://cdn.jsdelivr.net/emojione/assets/3.1/png/32/1f4bb.png&quot;&gt; プログラミング、ワークショップ(つづき）&lt;/p&gt;
+&lt;p&gt;14:50 ~ 15:20 &lt;img class=&quot;emojione&quot; alt=&quot;🎉&quot; title=&quot;:tada:&quot; src=&quot;https://cdn.jsdelivr.net/emojione/assets/3.1/png/32/1f389.png&quot;&gt; 作品発表 (希望するニンジャのみ、とちゅうでも :+1:)&lt;/p&gt;
+&lt;p&gt;14:20 ~ 14:30 &lt;img class=&quot;emojione&quot; alt=&quot;👋&quot; title=&quot;:wave:&quot; src=&quot;https://cdn.jsdelivr.net/emojione/assets/3.1/png/32/1f44b.png&quot;&gt; またねー&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1&gt;発表のしかた&lt;/h1&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/5fc05367114923a7fcd633954a6b2fd3/b94e3/whole_screen.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 68.91891891891892%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAYAAAAvxDzwAAAACXBIWXMAAA7DAAAOwwHHb6hkAAACHUlEQVQ4y52TS2sUQRRGG4yJkIlJJslMd/X7NT3tZBInQkAExY1LBcEHWQVFF7pzrYJrJf4FwRfiJggKgptgkEyiILhQ8IGIiAtDFoIIKkeqMj32mASDDR9Vt6ru6dt9v9KEbWIYBkKI/5bMN02TKIrQMpgc8+C/481AdV1HywI52rat3iRlWVYH+F/KwFo+6C0UGC4OURwcpG+gX4E3qtLcoFLNdV0836drSxdnTpyiOTfP3OwDDu89wNaebsIgQJ3xvJxc9TWObXWsO46DFoYhpVKJsydPo57vv+An/Fh8w8Hd+9FNQRSGBEHQko/MGR0bI61N4Pt+e09CNTkRhsHz5lPF+/Z5ma9vP8Hj19y5OEPJ0BVAJspqZWU7G7t4dW+K2RvnENY6QKOss/RkAT6ssPLwGcv3F+HRS66fv8yIXlYVrlbiYzse4+NVFm5aXJuZxLQrBIH3Byi9o5d1po4egxcfofkOlt7z5e48+xqTCMtUFcqEbAx8H9sLcLwk9ytawDRJqNfrqpvTh45w+9JVbl24wp76BN3begj8ANdxGE1TarWaapBqkpLTjqVUUzIfSYsMDBUpDGynt7+P4siw8uJmfZhJaztdCKyWoW3L6vBg24uGWLuWy18Fyo11DuXnEq7WzLXXrX2XhcAxTbRKFBFHETuqVXUX8wfTNMVxHZKogln3MBo+lTAmiiPiOFbnJahkGKS2zfEk4TeXxbDf900BQQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;bg right width:100%&quot;
+        title=&quot;bg right width:100%&quot;
+        src=&quot;/static/5fc05367114923a7fcd633954a6b2fd3/fcda8/whole_screen.png&quot;
+        srcset=&quot;/static/5fc05367114923a7fcd633954a6b2fd3/12f09/whole_screen.png 148w,
+/static/5fc05367114923a7fcd633954a6b2fd3/e4a3f/whole_screen.png 295w,
+/static/5fc05367114923a7fcd633954a6b2fd3/fcda8/whole_screen.png 590w,
+/static/5fc05367114923a7fcd633954a6b2fd3/efc66/whole_screen.png 885w,
+/static/5fc05367114923a7fcd633954a6b2fd3/b94e3/whole_screen.png 1126w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;マイクをONにしてください&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 191px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/2ce33e0c7ecb7d2fc168563215bfd16c/c540e/av_control.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 27.7027027027027%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAGCAYAAADDl76dAAAACXBIWXMAAA7DAAAOwwHHb6hkAAABHElEQVQY01WQ22qDQBCGfQQxpuruethdK0HBtEVykFIopKntnZeF9j7kOfIMgk/7l5lgDhfLzg7ffnNwoiiCEAJhGCJJEtR1zfGUm2Liblk6nuchCIK7nEMPKSVmsxnatsXpdIJSikFjDLTWF+nE9X2PcRxxOBywXC7h+z6zdByqKqVgsGkaHI/Hi9BayxAJpw5d10XXdRiGgYVlWfJf4vI8P3dIYKY1lJLQ2vDoSkqWTjLqzhiLxWKBOI7xMJ9z3uYWaZryBMSzMIwiPD2/oG23KIoCq9UKeW7vdqkzjfV6i+1mg9e3d+w/dui+vvH3+4PP/Q5VVV6FVImq0r6EiHjkKX+9JYy1SGIFIRWyLEWWaRTFI6qqgrXn1fwD8FarqqqoKZgAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;av control&quot;
+        title=&quot;av control&quot;
+        src=&quot;/static/2ce33e0c7ecb7d2fc168563215bfd16c/c540e/av_control.png&quot;
+        srcset=&quot;/static/2ce33e0c7ecb7d2fc168563215bfd16c/12f09/av_control.png 148w,
+/static/2ce33e0c7ecb7d2fc168563215bfd16c/c540e/av_control.png 191w&quot;
+        sizes=&quot;(max-width: 191px) 100vw, 191px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Zoom画面の下側にある&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 91px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/131219709f4e345f8c667504208e7487/3dc3c/share_button.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.043956043956044%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAB6ElEQVQoz22TO28TURCF/QcoMJu9ex/78K4fuzxsbBk7IjGxQkCJeAoSSBAKUgokaGgoqGh4NJTp+As0dHRQ0CDRpIECxD+gpP/Q3g1rx6Y4mnvvzhzNObNTUUrxD1LKMkrXK+/2zZNIIefyZmsr04QlmVKEb9eIv9ym9ukm8edb1D7eQF9oIKsCpScEjuMghChr5wk9iQo18cEdkp87mL0u0bsN6n/2MHfbyGMLKFPkep7HYDAgy7KS9P+EkSH+uknyY4fg5TK1D9dIfj+YItS2G2MM4/GYXq83ISx90IfIz0YRvb9C8use8cEW8bdt4u/b6PUMeVygfF3m5pJd1z0q2Rq+4BUQEnlCoAKNOh2hsrCIiY90Dr/nMYcn0VofHYo95MXtGroToVoB+mwNdSYqptrwUcJDdWP0UgPV8tHDpMiJ9NzEK9IRqHN1ghcrhPsjzGaHcH+V8NUy5mqK2e2iL7bwH/Xxnw4x6ynB6xXCNyN0P7KdllZZwlzeUpPgySLB8yFmq0PwbBH/cR9/t425fgqzkWFWm+hxEz1qYO538R920ecTZHWWMJeThphLGeZyih41bUd6LUVlQeHhyRCVGFRorCW2OA1QdVP+7CWh1Z8bXRUFHGGHYuEW22HhyaltmdxnN+Yvz88/ErzO8SgAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;share button&quot;
+        title=&quot;share button&quot;
+        src=&quot;/static/131219709f4e345f8c667504208e7487/3dc3c/share_button.png&quot;
+        srcset=&quot;/static/131219709f4e345f8c667504208e7487/3dc3c/share_button.png 91w&quot;
+        sizes=&quot;(max-width: 91px) 100vw, 91px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt; をおしてください&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;アイコンが出た時は&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 127px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/3425f2373fc0a8a277766f15f4230556/a9af1/share_desktop.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 97.63779527559055%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAACXBIWXMAAAsTAAALEwEAmpwYAAAB70lEQVQ4y5WTT4viMBiH51so2KS1aQs2TZNWQUSnbBcKxaIiKup6FOwfPXjw5kXUr+BF8OLJj7lrM3adWZ3ZeU6BvE/e5m1+L2IK+CYQQlEUX0RRlCQJY2x8B4QQhPAFQogxLpfL1n9j27ZlWZIkXWUzhfwDpZTdcb/FGEMIvcmUUvMGY4wfr2kav5Qoiggh847HMqVU07RisQghXC6Xp9PpcDgcj8f9fm9ZFiHkqUwpxRi3Wq0wDOM43mw2cRzP5/MkSVarVaPRwBjzyqfydrs9n8+XyyUMw1wupygKAOA15TOZEGLbtud5EEJd14MgMAyDMWYYhu/7juN8LTebzVKpxBjrdDpBELTbbd/3+/1+tVo1DOPpnfk/6PV6P28Mh0PXdfnws2k9nTYhpF6vu677I8VxHEpp1vAL2TRNjLF+h/kISuk7OXs9H+rIIxhjsixfZU3TyjcqKeVPqVQqhJBrMHgkZVlGKTCFr4s3+G5WgxDi1pvMHUEQHMep1WqCIPAvwhgrioIQkiRJlmWeZB7mvzL3VVX9lbLb7cIwTJJkvV4vFosoimazWRRFuq4DAHhU3sk8QO2U0Wjked54PJ5MJt1udzAYhGE4nU4VRcnafpQhhJIkAQAKhQI/Pp/PQwgBAJqmqaoqCELW9o/8G6Un46Rj3zmaAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;share desktop&quot;
+        title=&quot;share desktop&quot;
+        src=&quot;/static/3425f2373fc0a8a277766f15f4230556/a9af1/share_desktop.png&quot;
+        srcset=&quot;/static/3425f2373fc0a8a277766f15f4230556/a9af1/share_desktop.png 127w&quot;
+        sizes=&quot;(max-width: 127px) 100vw, 127px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1&gt;画面をえらぶ&lt;/h1&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/f3359965785c27baf68c9e9ebef8ccb6/561da/share_selection2.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 45.27027027027027%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAYAAAAywQxIAAAACXBIWXMAAA7DAAAOwwHHb6hkAAABZ0lEQVQoz4WRz0odMRTG5zEKFbr1JW4FW3ShfQLxBQR3vkG3bovgouu24K5QuqgbQVRUShe6KBT8i7elnXEymUkmJ/lJ4h2593qlHxxCSM4vX76TldoBHi+O4D2VKvBeiNLW07QBrRuUqjHGUZYaEZ/OQwgPFeWcIzs8veTz129s7xywf/SDq1ywkm4jPuAkYE2LMS1tK5jGJmBkdKAOHpUtrr5j+c0CU8+nWJx/yZfvOTdluoKy4AZuOjkPfszZ8Jq9XtnkVW+OZy+mmZmd4+NeTl/FYyGvHM7JyNeqOjqUR6BO2dqnP/TenrC0cc78+gVrWyWthJRpXevU3MG8CFrrlNWTwMZ6fvbh+haui0Dc33+YkXyGm8Zhw5X9U47jXxrE0BiLT2E/nuCgezS7Ibjz90PM4kSLqkUpza22tL+PU36TXh8vJjjPlFL0b/qY6E4Eqwvq2qRh/A/qB7Czv8L73YYPh4Y7HbCrDftPuaEAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;width:100%&quot;
+        title=&quot;width:100%&quot;
+        src=&quot;/static/f3359965785c27baf68c9e9ebef8ccb6/fcda8/share_selection2.png&quot;
+        srcset=&quot;/static/f3359965785c27baf68c9e9ebef8ccb6/12f09/share_selection2.png 148w,
+/static/f3359965785c27baf68c9e9ebef8ccb6/e4a3f/share_selection2.png 295w,
+/static/f3359965785c27baf68c9e9ebef8ccb6/fcda8/share_selection2.png 590w,
+/static/f3359965785c27baf68c9e9ebef8ccb6/efc66/share_selection2.png 885w,
+/static/f3359965785c27baf68c9e9ebef8ccb6/561da/share_selection2.png 969w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;画面全体をえらんでください。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[プログラミングでポケモンをうごかそう]]></title><description><![CDATA[Pokemon WS logo CoderDojo Japanのプレスリリースにもありますとおり、全国のCoderDojoでポケモンのキャラクターを使ったワークショップが出来るようになりました。 プログラミングでポケモンを動かすワークショップが、全国のCoderDojoで実施可能に。 | CoderDojo Japan…]]></description><link>https://coderdojo-higashi-sumiyoshi.github.io/2021-05-01_pokemon-ws/</link><guid isPermaLink="false">https://coderdojo-higashi-sumiyoshi.github.io/2021-05-01_pokemon-ws/</guid><pubDate>Sat, 01 May 2021 14:58:17 GMT</pubDate><content:encoded>&lt;p&gt;&lt;img src=&quot;/assets/images/pokemon/Pokemon_WS_logo.png&quot; alt=&quot;Pokemon WS logo&quot;&gt;&lt;/p&gt;
 &lt;p&gt;CoderDojo Japanのプレスリリースにもありますとおり、全国のCoderDojoでポケモンのキャラクターを使ったワークショップが出来るようになりました。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https://news.coderdojo.jp/2021/04/23/programming-with-pokemon/&quot;&gt;プログラミングでポケモンを動かすワークショップが、全国のCoderDojoで実施可能に。 | CoderDojo Japan&lt;/a&gt;&lt;/li&gt;

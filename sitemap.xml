@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url> <loc>https://coderdojo-higashi-sumiyoshi.github.io/posts/2021-04-24_launch_dojo/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://coderdojo-higashi-sumiyoshi.github.io/posts/2021-05-01_pokemon-ws/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://coderdojo-higashi-sumiyoshi.github.io/posts/how_to_start_discord/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://coderdojo-higashi-sumiyoshi.github.io/posts/2021-04-14-test-post/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://coderdojo-higashi-sumiyoshi.github.io/posts/2021-04-30_announce/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://coderdojo-higashi-sumiyoshi.github.io/posts/how_to_start_discord/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://coderdojo-higashi-sumiyoshi.github.io/posts/2021-05-01_pokemon-ws/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://coderdojo-higashi-sumiyoshi.github.io/posts/materials/welcome_slides/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://coderdojo-higashi-sumiyoshi.github.io/tag/blog</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://coderdojo-higashi-sumiyoshi.github.io/tag/pokemon</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://coderdojo-higashi-sumiyoshi.github.io/tag/workshop</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://coderdojo-higashi-sumiyoshi.github.io/tag/tips</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://coderdojo-higashi-sumiyoshi.github.io/tag/online</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://coderdojo-higashi-sumiyoshi.github.io/tag/discord</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://coderdojo-higashi-sumiyoshi.github.io/tag/pokemon</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://coderdojo-higashi-sumiyoshi.github.io/tag/workshop</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://coderdojo-higashi-sumiyoshi.github.io/generic/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://coderdojo-higashi-sumiyoshi.github.io/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://coderdojo-higashi-sumiyoshi.github.io/posts/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
