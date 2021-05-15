@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://coderdojo-higashi-sumiyoshi.github.io/sitemap.xml
-Host: https://coderdojo-higashi-sumiyoshi.github.io
