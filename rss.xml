@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[CoderDojo 東住吉]]></title><description><![CDATA[子どものプログラミング道場]]></description><link>https://coderdojo-higashi-sumiyoshi.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 15 May 2021 08:20:53 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><description><![CDATA[CoderDojoとは...  じかんわり  13:40 ~ 14:10  プログラミング、ワークショップ 14:10 ~ 14:20  きゅうけい 14:20 ~ 14:50  プログラミング、ワークショップ(つづき） 14:50 ~ 15:20  作品発表 (希望するニンジャのみ、とちゅうでも :+1:) 1…]]></description><link>https://coderdojo-higashi-sumiyoshi.github.io/materials/welcome_slides/</link><guid isPermaLink="false">https://coderdojo-higashi-sumiyoshi.github.io/materials/welcome_slides/</guid><content:encoded>&lt;!-- _class: lead --&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[CoderDojo 東住吉]]></title><description><![CDATA[子どものプログラミング道場]]></description><link>https://coderdojo-higashi-sumiyoshi.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 17 May 2021 14:07:44 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><description><![CDATA[CoderDojoとは...  じかんわり  13:40 ~ 14:40  プログラミング、ワークショップ 14:40 ~ 15:10  自由時間 (きゅうけい、プログラミング) 15:10 ~ 15:20  作品発表 (希望するニンジャのみ、とちゅうでも :+1:) 15:20 ~ 15:3…]]></description><link>https://coderdojo-higashi-sumiyoshi.github.io/materials/welcome_slides/</link><guid isPermaLink="false">https://coderdojo-higashi-sumiyoshi.github.io/materials/welcome_slides/</guid><content:encoded>&lt;!-- _class: lead --&gt;
 &lt;h1&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/13t5P1gojsde_gvcvDnPsfHYIqsS-knqWGDxyh3eG8SU/edit#slide=id.p&quot;&gt;CoderDojoとは...&lt;/a&gt;&lt;/h1&gt;
 &lt;hr&gt;
 &lt;h1&gt;&lt;img class=&quot;emojione&quot; alt=&quot;⏲&quot; title=&quot;:timer:&quot; src=&quot;https://cdn.jsdelivr.net/emojione/assets/3.1/png/32/23f2.png&quot;&gt; じかんわり &lt;img class=&quot;emojione&quot; alt=&quot;⏲&quot; title=&quot;:timer:&quot; src=&quot;https://cdn.jsdelivr.net/emojione/assets/3.1/png/32/23f2.png&quot;&gt;&lt;/h1&gt;
-&lt;p&gt;13:40 ~ 14:10 &lt;img class=&quot;emojione&quot; alt=&quot;💻&quot; title=&quot;:computer:&quot; src=&quot;https://cdn.jsdelivr.net/emojione/assets/3.1/png/32/1f4bb.png&quot;&gt; プログラミング、ワークショップ&lt;/p&gt;
-&lt;p&gt;14:10 ~ 14:20 &lt;img class=&quot;emojione&quot; alt=&quot;🍵&quot; title=&quot;:tea:&quot; src=&quot;https://cdn.jsdelivr.net/emojione/assets/3.1/png/32/1f375.png&quot;&gt; きゅうけい&lt;/p&gt;
-&lt;p&gt;14:20 ~ 14:50 &lt;img class=&quot;emojione&quot; alt=&quot;💻&quot; title=&quot;:computer:&quot; src=&quot;https://cdn.jsdelivr.net/emojione/assets/3.1/png/32/1f4bb.png&quot;&gt; プログラミング、ワークショップ(つづき）&lt;/p&gt;
-&lt;p&gt;14:50 ~ 15:20 &lt;img class=&quot;emojione&quot; alt=&quot;🎉&quot; title=&quot;:tada:&quot; src=&quot;https://cdn.jsdelivr.net/emojione/assets/3.1/png/32/1f389.png&quot;&gt; 作品発表 (希望するニンジャのみ、とちゅうでも :+1:)&lt;/p&gt;
-&lt;p&gt;14:20 ~ 14:30 &lt;img class=&quot;emojione&quot; alt=&quot;👋&quot; title=&quot;:wave:&quot; src=&quot;https://cdn.jsdelivr.net/emojione/assets/3.1/png/32/1f44b.png&quot;&gt; またねー&lt;/p&gt;
+&lt;p&gt;13:40 ~ 14:40 &lt;img class=&quot;emojione&quot; alt=&quot;💻&quot; title=&quot;:computer:&quot; src=&quot;https://cdn.jsdelivr.net/emojione/assets/3.1/png/32/1f4bb.png&quot;&gt; プログラミング、ワークショップ&lt;/p&gt;
+&lt;p&gt;14:40 ~ 15:10 &lt;img class=&quot;emojione&quot; alt=&quot;💻&quot; title=&quot;:computer:&quot; src=&quot;https://cdn.jsdelivr.net/emojione/assets/3.1/png/32/1f4bb.png&quot;&gt; 自由時間 (きゅうけい、プログラミング)&lt;/p&gt;
+&lt;p&gt;15:10 ~ 15:20 &lt;img class=&quot;emojione&quot; alt=&quot;🎉&quot; title=&quot;:tada:&quot; src=&quot;https://cdn.jsdelivr.net/emojione/assets/3.1/png/32/1f389.png&quot;&gt; 作品発表 (希望するニンジャのみ、とちゅうでも :+1:)&lt;/p&gt;
+&lt;p&gt;15:20 ~ 15:30 &lt;img class=&quot;emojione&quot; alt=&quot;👋&quot; title=&quot;:wave:&quot; src=&quot;https://cdn.jsdelivr.net/emojione/assets/3.1/png/32/1f44b.png&quot;&gt; またねー&lt;/p&gt;
 &lt;hr&gt;
 &lt;h1&gt;発表のしかた&lt;/h1&gt;
 &lt;p&gt;&lt;span
@@ -166,7 +165,302 @@
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;画面全体をえらんでください。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[プログラミングでポケモンをうごかそう]]></title><description><![CDATA[Pokemon WS logo CoderDojo Japanのプレスリリースにもありますとおり、全国のCoderDojoでポケモンのキャラクターを使ったワークショップが出来るようになりました。 プログラミングでポケモンを動かすワークショップが、全国のCoderDojoで実施可能に。 | CoderDojo Japan…]]></description><link>https://coderdojo-higashi-sumiyoshi.github.io/2021-05-01_pokemon-ws/</link><guid isPermaLink="false">https://coderdojo-higashi-sumiyoshi.github.io/2021-05-01_pokemon-ws/</guid><pubDate>Sat, 01 May 2021 14:58:17 GMT</pubDate><content:encoded>&lt;p&gt;&lt;img src=&quot;/assets/images/pokemon/Pokemon_WS_logo.png&quot; alt=&quot;Pokemon WS logo&quot;&gt;&lt;/p&gt;
+&lt;p&gt;画面全体をえらんでください。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[CoderDojo 東住吉 1回目 [オンライン開催]]]></title><description><![CDATA[【オンライン開催】プログラミングで遊ぼう！ CoderDojo 東住吉 1回目 2名のメンター 3名のニンジャ が来てくれました  CoderDojo 東住吉の初めての道場になります。また今回は、Zoomを使ってオンライン開催の道場となりました。  当日のスケジュール 時間 内容 13:30 ~ 13:4…]]></description><link>https://coderdojo-higashi-sumiyoshi.github.io/2021-05-15_coderdojo-01-online/</link><guid isPermaLink="false">https://coderdojo-higashi-sumiyoshi.github.io/2021-05-15_coderdojo-01-online/</guid><pubDate>Sun, 16 May 2021 04:30:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://coderdojohigashisumiyoshi.doorkeeper.jp/events/121104&quot;&gt;【オンライン開催】プログラミングで遊ぼう！ CoderDojo 東住吉 1回目&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;2&lt;/code&gt;名の&lt;strong&gt;メンター&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;3&lt;/code&gt;名の&lt;strong&gt;ニンジャ&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;が来てくれました &lt;img class=&quot;emojione&quot; alt=&quot;🎉&quot; title=&quot;:tada:&quot; src=&quot;https://cdn.jsdelivr.net/emojione/assets/3.1/png/32/1f389.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;CoderDojo 東住吉の初めての道場になります。また今回は、Zoomを使ってオンライン開催の道場となりました。&lt;/p&gt;
+&lt;h1&gt;&lt;img class=&quot;emojione&quot; alt=&quot;⏲&quot; title=&quot;:timer:&quot; src=&quot;https://cdn.jsdelivr.net/emojione/assets/3.1/png/32/23f2.png&quot;&gt; 当日のスケジュール&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;時間&lt;/th&gt;
+&lt;th&gt;内容&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;13:30 ~ 13:40 (10min)&lt;/td&gt;
+&lt;td&gt;1. &lt;img class=&quot;emojione&quot; alt=&quot;📋&quot; title=&quot;:clipboard:&quot; src=&quot;https://cdn.jsdelivr.net/emojione/assets/3.1/png/32/1f4cb.png&quot;&gt; オープニング&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;13:40 ~ 14:40 (60min)&lt;/td&gt;
+&lt;td&gt;2. &lt;img class=&quot;emojione&quot; alt=&quot;💻&quot; title=&quot;:computer:&quot; src=&quot;https://cdn.jsdelivr.net/emojione/assets/3.1/png/32/1f4bb.png&quot;&gt; プログラミング、ワークショップ&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;14:40 ~ 15:10 (30min)&lt;/td&gt;
+&lt;td&gt;3. &lt;img class=&quot;emojione&quot; alt=&quot;🛠&quot; title=&quot;:tools:&quot; src=&quot;https://cdn.jsdelivr.net/emojione/assets/3.1/png/32/1f6e0.png&quot;&gt; 自由時間 (きゅうけい、プログラミング)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;15:10 ~ 15:25 (15min)&lt;/td&gt;
+&lt;td&gt;4. &lt;img class=&quot;emojione&quot; alt=&quot;🎉&quot; title=&quot;:tada:&quot; src=&quot;https://cdn.jsdelivr.net/emojione/assets/3.1/png/32/1f389.png&quot;&gt; 作品発表 (希望するニンジャのみ、とちゅうでも &lt;img class=&quot;emojione&quot; alt=&quot;🆗&quot; title=&quot;:ok:&quot; src=&quot;https://cdn.jsdelivr.net/emojione/assets/3.1/png/32/1f197.png&quot;&gt; )&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;15:25 ~ 15:30 ( 5min)&lt;/td&gt;
+&lt;td&gt;5. &lt;img class=&quot;emojione&quot; alt=&quot;👋&quot; title=&quot;:wave:&quot; src=&quot;https://cdn.jsdelivr.net/emojione/assets/3.1/png/32/1f44b.png&quot;&gt; クロージング、記念撮影&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1&gt;レポート&lt;/h1&gt;
+&lt;h2&gt;1. &lt;img class=&quot;emojione&quot; alt=&quot;📋&quot; title=&quot;:clipboard:&quot; src=&quot;https://cdn.jsdelivr.net/emojione/assets/3.1/png/32/1f4cb.png&quot;&gt; オープニング&lt;/h2&gt;
+&lt;p&gt;最初は簡単にCoderDojoJapanが用意する説明スライドを使って、CoderDojoの説明を行いました。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/13t5P1gojsde_gvcvDnPsfHYIqsS-knqWGDxyh3eG8SU/edit#slide=id.p&quot;&gt;CoderDojo へようこそ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;チャンピオンの&lt;a href=&quot;https://github.com/ytakio&quot;&gt;&lt;code&gt;やまおか&lt;/code&gt;&lt;/a&gt;も初めての道場開催なので、上手く説明できたか心配です &lt;img class=&quot;emojione&quot; alt=&quot;💦&quot; title=&quot;:sweat_drops:&quot; src=&quot;https://cdn.jsdelivr.net/emojione/assets/3.1/png/32/1f4a6.png&quot;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;2. &lt;img class=&quot;emojione&quot; alt=&quot;💻&quot; title=&quot;:computer:&quot; src=&quot;https://cdn.jsdelivr.net/emojione/assets/3.1/png/32/1f4bb.png&quot;&gt; プログラミング、ワークショップ&lt;/h2&gt;
+&lt;p&gt;CoderDojoに初めて参加するニンジャも最初は見学で参加していましたが、ポケモンのワークショップを一緒にしてくれました。&lt;/p&gt;
+&lt;p style=&apos;text-align:center;&apos;&gt;&lt;img src=&quot;/assets/images/pokemon/Pokemon_WS_logo.png&quot; width=320&gt;&lt;/p&gt;
+&lt;p&gt;またメンターで参加してくれた&lt;a href=&quot;https://coderdojo-hommachi.github.io/&quot;&gt;CoderDojo 大阪狭山・本町&lt;/a&gt;チャンピオンの&lt;code&gt;おごもり&lt;/code&gt;さんが、ワークショップを進めてくれました &lt;img class=&quot;emojione&quot; alt=&quot;✨&quot; title=&quot;:sparkles:&quot; src=&quot;https://cdn.jsdelivr.net/emojione/assets/3.1/png/32/2728.png&quot;&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;2.2. ピカチュウを うごかそう&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;ポケモンのワークショップは、最初はピカチュウを動かすプログラミングを一緒に行いました。&lt;/p&gt;
+&lt;p&gt;CoderDojoに参加するのが初めてのニンジャも居るので、ファイル読み込みとか上手く出来るかなと心配でしたが、スムーズに始めれました &lt;img class=&quot;emojione&quot; alt=&quot;🎉&quot; title=&quot;:tada:&quot; src=&quot;https://cdn.jsdelivr.net/emojione/assets/3.1/png/32/1f389.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 418px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/a840695514c63ec70768498ce0052c78/d7398/pokemon_ws_scratch.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 108.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAWCAYAAADAQbwGAAAACXBIWXMAAA7EAAAOxAGVKw4bAAADXklEQVQ4y5WU208UZxiH929rvGjTxtqkabCaNI1tjGm46FUV0kSaYFItSQkaQU1jSi9qio2VFbAIqBTDScpaVFgOFraCBXYZhp3vPPM0M7NKODZM8ss7p++Z9/D7JnMjO0LDz3k+aoYjTfDBRTjakp5/eCmOEe81Rpz4IaSmLaL2ZsjpX0K+aI149/uIt87DoQubyuReSJ4VDPeeCG4NrnFndIOOxz6/Da7R89TyIA+9kxEPpiL6pyP+mE7jw3yU3O95HtH7PI2xMnPLDt+XFFdKFIvrlEo+paJPcdXD9wWBMARCJyoHsUwSg0AjxE5lCosgctcxuauEYw0YfxWjQ4zSKKES6ViB3Borz7Yr82rWYOf7UFO3MJNtqNU5lHIoIZGvX5QapW0qY9PrvYAbBYsdqkc9qiPsPYUdb0ZZ0EK8gelAIVc85KqHWPaQvkjKS7KX24BOzWLHL2N7TmF7TqKnsygTAyWqLJAuxB8Ygc++gs9r4Gg1ZLuJj1CKHdBMaWECNdpImH0f134YvTyF0ilQliVh6JgaXuDH6tt0ftNB08l22lrztPRHTC4oMGqzNTFwcn4JOX6VcPAsZugcam0RrcKk6TJQOKUoFB1defhrGe7Nwch8SN+E5uWKxultJU+WAuyL31nvPYPuP4MuzqN0lJYs0q/HUKIQoggw4CxEirAC21LyjFfADZ9DdH6K6atGx1OulKxeQ5XD5C8Q9byN6j6EWupCKFCB2GGfjHg5hZ24TpA9huk+gV6d2QIUgYawzHDHWZqarnHpSiu/3r9LaM3uttGFFdzoefz24+gYuDK9NcNAYY2h+KyFmb6v+fthLUuFIYzmTQVbfbjkoR83Eo7UYwdqUKV/UJWhbL6osSZKe+ccoXEVj+6SoQPsnxeR2Srs3U/Qi2Nok/ZnY30DHe+KZKFEBqnSQey+WzLx3GyumbUb72A6P076GdsmXuiteXsuVMlO0bsD3XA93s0j6Ptf4gZOo71XSGlZ3xeo9snw6U/YkW+xow3o3DV02UcKjVfaByj3AZqZO5iheszod4n0+jJKOgK/fKDsNoHTt9GP6tDjl9G5K2jvX7Tc9NlByk5LftJC2FWV+DH5F0LiRfU/E90bONaIyFZRzh7HDtTiBusws10VqDgQ8D/GaFfUokk6qgAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;pokemon ws scratch&quot;
+        title=&quot;pokemon ws scratch&quot;
+        src=&quot;/static/a840695514c63ec70768498ce0052c78/d7398/pokemon_ws_scratch.png&quot;
+        srcset=&quot;/static/a840695514c63ec70768498ce0052c78/12f09/pokemon_ws_scratch.png 148w,
+/static/a840695514c63ec70768498ce0052c78/e4a3f/pokemon_ws_scratch.png 295w,
+/static/a840695514c63ec70768498ce0052c78/d7398/pokemon_ws_scratch.png 418w&quot;
+        sizes=&quot;(max-width: 418px) 100vw, 418px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;ブロックをつなげて、ピカチュウを歩かせるプログラミングです。&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;2.3. ポケモンを つかまえよう&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;ピカチュウが動かせるようになったら、モンスターボールとポケモンを読み込んで、ポケモンを捕まえるプログラミングをします。&lt;/p&gt;
+&lt;p&gt;ここから、たくさんのスクラッチ・ブロックを一緒につなげます...&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/3d146e47a283f506331b5c1918b96e32/9aaa0/pokemon_ws_gallery.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 11.486486486486488%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAACABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMC/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAZyDQl//xAAYEAEBAAMAAAAAAAAAAAAAAAABAgARIf/aAAgBAQABBQKl2vLz/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGRAAAwADAAAAAAAAAAAAAAAAAAECIUFx/9oACAEBAAY/Apztki4f/8QAGRAAAgMBAAAAAAAAAAAAAAAAASEAETFx/9oACAEBAAE/IQnnc4bQsG5rhP/aAAwDAQACAAMAAAAQ8C//xAAWEQADAAAAAAAAAAAAAAAAAAABEDH/2gAIAQMBAT8QEX//xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAgEBPxBn/8QAGhABAAIDAQAAAAAAAAAAAAAAAQAxESFRcf/aAAgBAQABPxDBY0C3Vzt4bXEuZXp5P//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;pokemon ws gallery&quot;
+        title=&quot;pokemon ws gallery&quot;
+        src=&quot;/static/3d146e47a283f506331b5c1918b96e32/1c72d/pokemon_ws_gallery.jpg&quot;
+        srcset=&quot;/static/3d146e47a283f506331b5c1918b96e32/a80bd/pokemon_ws_gallery.jpg 148w,
+/static/3d146e47a283f506331b5c1918b96e32/1c91a/pokemon_ws_gallery.jpg 295w,
+/static/3d146e47a283f506331b5c1918b96e32/1c72d/pokemon_ws_gallery.jpg 590w,
+/static/3d146e47a283f506331b5c1918b96e32/9aaa0/pokemon_ws_gallery.jpg 671w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;みんな真剣...&lt;img class=&quot;emojione&quot; alt=&quot;👀&quot; title=&quot;:eyes:&quot; src=&quot;https://cdn.jsdelivr.net/emojione/assets/3.1/png/32/1f440.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;ワークショップを一通り終えると。モンスターボールでポケモンを捕まえるプログラミングが完成しました &lt;img class=&quot;emojione&quot; alt=&quot;🎉&quot; title=&quot;:tada:&quot; src=&quot;https://cdn.jsdelivr.net/emojione/assets/3.1/png/32/1f389.png&quot;&gt;&lt;/p&gt;
+&lt;h2&gt;3. &lt;img class=&quot;emojione&quot; alt=&quot;🛠&quot; title=&quot;:tools:&quot; src=&quot;https://cdn.jsdelivr.net/emojione/assets/3.1/png/32/1f6e0.png&quot;&gt; 自由時間 (きゅうけい、プログラミング)&lt;/h2&gt;
+&lt;p&gt;ポケモンのワークショップを一通り終えると、基本的なプログラミングが出来るようになります。&lt;/p&gt;
+&lt;p&gt;ここからは、みんな自分のしたいプログラミングをしたり、自由に休憩をとったりしました。&lt;/p&gt;
+&lt;p&gt;メンターも今回は発表しようと、もくもくとプログラミングをしていました &lt;img class=&quot;emojione&quot; alt=&quot;😆&quot; title=&quot;:laughing:&quot; src=&quot;https://cdn.jsdelivr.net/emojione/assets/3.1/png/32/1f606.png&quot;&gt;&lt;/p&gt;
+&lt;h2&gt;4. &lt;img class=&quot;emojione&quot; alt=&quot;🎉&quot; title=&quot;:tada:&quot; src=&quot;https://cdn.jsdelivr.net/emojione/assets/3.1/png/32/1f389.png&quot;&gt; 作品発表 (希望するニンジャのみ、とちゅうでも &lt;img class=&quot;emojione&quot; alt=&quot;🆗&quot; title=&quot;:ok:&quot; src=&quot;https://cdn.jsdelivr.net/emojione/assets/3.1/png/32/1f197.png&quot;&gt; )&lt;/h2&gt;
+&lt;p&gt;今回はメンターの2人が発表を行いました。 (ニンジャはオンラインだし、ちょと恥ずかしかったみたいです&lt;img class=&quot;emojione&quot; alt=&quot;😳&quot; title=&quot;:flushed:&quot; src=&quot;https://cdn.jsdelivr.net/emojione/assets/3.1/png/32/1f633.png&quot;&gt;)&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;発表 1番目&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;最初の発表はチャンピオンの&lt;code&gt;やまおか&lt;/code&gt;が発表を行いました。&lt;/p&gt;
+&lt;p&gt;ワークショップで作った、「ポケモンを つかまえよう」のプログラミングに &lt;a href=&quot;https://microbit.org/&quot;&gt;micro:bit(マイクロビット)&lt;/a&gt;を使ってモンスターボールを操作出来るようにしました。&lt;/p&gt;
+&lt;p&gt;マイクロビットが、かたむいた方向にモンスターボールが動きます。&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/5214e065936e09bede106aa828f128a0/748f4/present1_scratch.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 118.91891891891892%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAYCAYAAAD6S912AAAACXBIWXMAAA7DAAAOwwHHb6hkAAAFC0lEQVQ4y5WVe2wUVRTGNyaSGA0KUQkSFANSEGIiUVoxkSbSSCKJfxgfhBQxYlAQQVQEAz5Ao4AVSilQKJXdPoA+aKH0SUtbaKHFUlrpC3Zr6bt0abtbujP3zmN/ZqYiCPzDTb7MvXMn3z3nfOd+45BCoHdnorXvR/g9iEAvQkqklAgh7huOgN9DT+loghVPYJ6bgl4djhjqQujYxPdNKK63IPc9iRE/GWPPeIzkUETlHoyEuaiN2SgGKEoARag2VFVBqoERgnsc6JADrZgHpmEmTMLcPw4j9VV0dzGcjYW+Zuxh3AYTVEBqxj1JHcL3N0b6DMzECZh/PI6ZNJVudy5ne2soaDpNXlMxOc3F5LtLOOEpo7nhGMHqBIS3BaGbCKHeSdiCvmsi+q8T0aNnIrdMoKboG5af/py5sYuZlfIlz6d+xaycDcwuiWJzytvwyxjUxuOIIEhVuTtCdo+HLY/Bjqdh21jq8j9gdfky5jk/YW7aZ4QdXUHY8TWEFX5PjHM+/PwIasMxm1DcSSh9Hrx7Q2mNiqA/eg5dUXPIyotjWdFWFsUtYXbS74RmxBBZsZvF1Ykk5K8DZwSq5xTC4O6UGaghzpXChwdV/tzxDn/s3M7CQ7DVVU9X/CJWxXcTVQDoQxiKinmjHyVwA8USRwdpE90SxmH4W+nM+4jmEysZPLGAnpK1dPQN0TkguObtp/26yrVBBdUAzVsDuS/AyXCoWQVX9qFKE3lblA5VSDAkmAIMAwwNTB1MA8ygPdelgmFC79U6LiS9S232egoS11BfuhfD+L/SDlNqnPN2EOWppMLbRqu/H7fPi8fn5Yqvj7ahARRVQFCjpsXPpwc6yCxtYL2riaMVbfZ7a/8WYdBk0TEno1wbmFIZx4y8aKYV7CT8fAozzuxj4cVMDCsCq2YdZQwdmc7goRAGXE8xeHIxN4QljPJflA5NC9JUHEm5ayLn0l+jzDWd6tSZ1Ga+yIX06TSeXo7UQJqgtJ9iXUwGCUW9RB9rYflBL1VuAQRRrG+k1YdaEDyH4FIstGTDZRe4E8GTDG4ndJ5CSM2OULYXUHnwPQ5kHCQy3c2Sw/VsKr5MfeFqqFqJKjQc9l3Ugwh/I4rShwJ2S9imYMFqDcsMrJTbCuHIg3RnhVN89GOq8lZTkbOG9rM/YXbko9opGzDgicJ3ahRG9cvIi2+gtMcTkCaqOjzSEtZtMEG0FSKTx0BWCKSPg8xJcGQ0VK5AdJXbdXRYtQk0bILchyF/PGQ6oGGjbTJBKexT5U3Cq3kYzgfQDo1FJD6Ekh1GoH4XavVGRNN+uzQO3QTfXzGUpIZRnvYKTUkhpFVtI7nrMi2+PkxNRxUqmpWKeh06i6D7DHSXguUDtw07Zcvf3LU7eTZmBZFJSznsfJPnymJ5tOg30jougREcMVZN8nVVES+dzeC7jkairzazvbWOuM5LbLt6gZyey6BpIymLpnjq8ubTWvgWPTnzcDc6cd/wMxgYsv8tmpT41WGWudYS4VrKguNf8LprKRFZ63k/91vCM1awuTbL6p4RlS0VGe6HwADBwACIYdBNdNuNVbs22rCPYWc4WvQkiJkK8bMJlv4A8aGwZwZGdRxCKjhu2rgq9dug2XWz9iw3kdZa8UPmLJSEMQy6puBLCsHvfAYzdTLBtMkEj4ag1/z4L6EN9Y7nHbCau+MkavtJlJ5qlO4qlO5KRO95xLXziK4zyP5m/gEpYmoerOroeAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;present1 scratch&quot;
+        title=&quot;present1 scratch&quot;
+        src=&quot;/static/5214e065936e09bede106aa828f128a0/fcda8/present1_scratch.png&quot;
+        srcset=&quot;/static/5214e065936e09bede106aa828f128a0/12f09/present1_scratch.png 148w,
+/static/5214e065936e09bede106aa828f128a0/e4a3f/present1_scratch.png 295w,
+/static/5214e065936e09bede106aa828f128a0/fcda8/present1_scratch.png 590w,
+/static/5214e065936e09bede106aa828f128a0/748f4/present1_scratch.png 656w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;またマイクロビットのボタンを使って、こんなプログラミングもしました。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Aボタンを押すとモンスターボールが飛んで、当たるとポケモンをゲット&lt;/li&gt;
+&lt;li&gt;Bボタンでピカチュウを出す&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;少しバグがあって、Aボタンを連打するとモンスターボールが凄いことになります &lt;img class=&quot;emojione&quot; alt=&quot;😱&quot; title=&quot;:scream:&quot; src=&quot;https://cdn.jsdelivr.net/emojione/assets/3.1/png/32/1f631.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;また、つかまえたポケモンの数をマイクロビット側にも表示するようにしてみました。&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/3da0fc29efa4f34997d904f061d9dd32/dc4d4/present1_microbit.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 114.1891891891892%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAXABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAMEBQH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAP/aAAwDAQACEAMQAAAB1Y6tIdsRyMmYR//EABsQAAMAAgMAAAAAAAAAAAAAAAABAgMRBBMi/9oACAEBAAEFAhP0cu6lY8l9pWmJSns//8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAGxAAAQUBAQAAAAAAAAAAAAAAAQACEBEhMRL/2gAIAQEABj8CThADcJQHrvY0K6j/xAAaEAEAAgMBAAAAAAAAAAAAAAABABEQITFR/9oACAEBAAE/IYaR5V4V1RtPI212NjuBwGUAbJXyf//aAAwDAQACAAMAAAAQq/AD/8QAFhEBAQEAAAAAAAAAAAAAAAAAASBB/9oACAEDAQE/EA2P/8QAFhEBAQEAAAAAAAAAAAAAAAAAEAER/9oACAECAQE/EDIf/8QAHRABAAIBBQEAAAAAAAAAAAAAAQARMSFBUWGh8P/aAAgBAQABPxB0l/JdHDUuI/ggwPvJiqYA9toE9ICDQEsSFUf/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;present1 microbit&quot;
+        title=&quot;present1 microbit&quot;
+        src=&quot;/static/3da0fc29efa4f34997d904f061d9dd32/1c72d/present1_microbit.jpg&quot;
+        srcset=&quot;/static/3da0fc29efa4f34997d904f061d9dd32/a80bd/present1_microbit.jpg 148w,
+/static/3da0fc29efa4f34997d904f061d9dd32/1c91a/present1_microbit.jpg 295w,
+/static/3da0fc29efa4f34997d904f061d9dd32/1c72d/present1_microbit.jpg 590w,
+/static/3da0fc29efa4f34997d904f061d9dd32/dc4d4/present1_microbit.jpg 795w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;発表 2番目&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;二人目の発表は、&lt;a href=&quot;https://coderdojo-hommachi.github.io/&quot;&gt;CoderDojo 大阪狭山・本町&lt;/a&gt;チャンピオンの&lt;code&gt;おごもり&lt;/code&gt;さんが発表を行いました。&lt;/p&gt;
+&lt;p&gt;こちらも、ワークショップで作った「ポケモンを つかまえよう」のプログラミングを、スクラッチ・ブロックの&lt;code&gt;クローンする&lt;/code&gt;を使ったプログラミングを見せてくれました。&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 347px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/7b38da27df4b564f82d562958a83f746/39e45/present2_scratch.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 89.86486486486487%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAASCAYAAABb0P4QAAAACXBIWXMAAA7EAAAOxAGVKw4bAAADo0lEQVQ4y42UW0xcVRiFz5PRmPimJj6oD0ZDjSb2SR800ZjYRmu0akyMrVFrBG9VSSVpm1Br0WC8Qim0FDrFpoJyMbUXCgxBUKkyAsU6UHFmoLRMYYDO9ezbOfOZOTMYaqLpw8pOdv6svde/1v9bemAYp64Fd38r+sIcyhiULVBCepD2MhRKpDFRHyrqQ6YmkOkF717aogCJla1qIrv2FczDm1CBcYQLMqUQGeUV5EltlAQ7Pkis82qyPTeQ9V+Dma1CuaClQassShisU7UX+OaFMIc3zdD43jkO7DiPr3wWX5km+JMmi0SkbaQEtXQK3b4KdbAIUXsTmbFdpBLzpGMhUrEwdnIB60gdfFECwd8gErQJjSYInU4RHlEsRTVaKWQmT2gu9TPw4T4aN8+x/51zVL07TM22ANVlo9SWRhgfDGDFjn/J/O410LYahspwATcrcVA4KoPM5PsjJBDv4f3KdrbWw1u7Ezy+PczGigme3TnF+ooYA6fHsOh7kdjB2yhv+JTtTT62tvVS3uHnoxNDjLYWw5m92BqkyGISo8z6nyPqf4nFznVcDDUQjZ8lujBGdOl3Uuk5LN1VgvjgRqYr1zK9836m6ouZaniT2Y8fINlfjU7F8g7nXBQO2BMQ78KVU7jaxlXgSnCVi86ZIjo3E3y+kvHiI4y/3MbklpNMlh0n2fUDroh7UvORUBipmR9+CNF7PW7gXtRfJQgTRzpJRCFelux5G9/GMEPNgnRkgcXgJRYnBekkKEMhZ4UcKoHbcQd8fi18ch18VUS2bwvu4ftQiT894yztL2Gmeh2Zjmegdz3Z7qcxS3+gkvPIxRlkKo4UOVKN1mkCNYc4+kY/gfqfaX3tDL/WNEOwHJmrFw6W6dwAey2ouwrnwK04x57C9L6O6S/F8b+KnvweqUBmFFoliHy3i4nPNhOtf5Kzh7ZxPjKDJqckm5esQidRw3tQI3tQ4R5kztFMxoPKnYWR8qTnxqX7Tmi/G/foI9C9CsdMI+00UiS9GssjcAvQBQOEXgF1GaE5dg9i380sNT9GqvEW3BNFuJ2rcQbXIO1FLJWb0+Uf2faKZfBvKKQUOD8+imm5HfHtXci+JzChevRENXqqCWWnsf6b4HJ4jynQ01/j9D2IM1KKibTklTkgC4m4csKciiwYfw3sKMLp2ID5pcJr0bLCfA6vmFAUCIdwK3yoiza58fbuV9RZcuUSFf9DKpb7qJBGe/30ttA/puUJ/wYAVPdcA3CcFwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;present2 scratch&quot;
+        title=&quot;present2 scratch&quot;
+        src=&quot;/static/7b38da27df4b564f82d562958a83f746/39e45/present2_scratch.png&quot;
+        srcset=&quot;/static/7b38da27df4b564f82d562958a83f746/12f09/present2_scratch.png 148w,
+/static/7b38da27df4b564f82d562958a83f746/e4a3f/present2_scratch.png 295w,
+/static/7b38da27df4b564f82d562958a83f746/39e45/present2_scratch.png 347w&quot;
+        sizes=&quot;(max-width: 347px) 100vw, 347px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;ピカチュウが歩きながら、どんどん分身していました。少し待つと、画面いっぱいにピカチュウが... &lt;img class=&quot;emojione&quot; alt=&quot;❗&quot; title=&quot;:exclamation:&quot; src=&quot;https://cdn.jsdelivr.net/emojione/assets/3.1/png/32/2757.png&quot;&gt; すごい光景です。&lt;/p&gt;
+&lt;p&gt;ここでモンスターボールを動かすと、ものすごい数のピカチュウをつかまえることが出来ました。&lt;/p&gt;
+&lt;p&gt;ニンジャ達も、大爆笑 &lt;img class=&quot;emojione&quot; alt=&quot;😆&quot; title=&quot;:laughing:&quot; src=&quot;https://cdn.jsdelivr.net/emojione/assets/3.1/png/32/1f606.png&quot;&gt; (少し時間をおいてみたら、1,000匹を超えてました)&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/6bda851dc283550311dd29741f0a76f1/fdf97/present2_gallery.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 14.864864864864865%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAADABQDASIAAhEBAxEB/8QAFwABAAMAAAAAAAAAAAAAAAAAAAIDBP/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAHLAi0H/8QAGBAAAwEBAAAAAAAAAAAAAAAAAAECExL/2gAIAQEAAQUC0vPumNuz/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGhAAAgIDAAAAAAAAAAAAAAAAAAECERIhMf/aAAgBAQAGPwK73kSticun/8QAGBAAAwEBAAAAAAAAAAAAAAAAAAERIUH/2gAIAQEAAT8h2c3R0KNIqKsj/9oADAMBAAIAAwAAABAP3//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABsQAAICAwEAAAAAAAAAAAAAAAERADEhQVFx/9oACAEBAAE/ELrZ6DOFyPZAEE+wfb4a2dCf/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;present2 gallery&quot;
+        title=&quot;present2 gallery&quot;
+        src=&quot;/static/6bda851dc283550311dd29741f0a76f1/1c72d/present2_gallery.jpg&quot;
+        srcset=&quot;/static/6bda851dc283550311dd29741f0a76f1/a80bd/present2_gallery.jpg 148w,
+/static/6bda851dc283550311dd29741f0a76f1/1c91a/present2_gallery.jpg 295w,
+/static/6bda851dc283550311dd29741f0a76f1/1c72d/present2_gallery.jpg 590w,
+/static/6bda851dc283550311dd29741f0a76f1/fdf97/present2_gallery.jpg 724w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;またスクラッチの&lt;code&gt;ていぎ&lt;/code&gt;の使い方も、説明してくれました。&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;クローンする&lt;/code&gt;を使うと、スクラッチで出来る事が一気に増えるので、こういった発表はニンジャの刺激になりそう &lt;img class=&quot;emojione&quot; alt=&quot;😄&quot; title=&quot;:smile:&quot; src=&quot;https://cdn.jsdelivr.net/emojione/assets/3.1/png/32/1f604.png&quot;&gt;&lt;/p&gt;
+&lt;h2&gt;5. &lt;img class=&quot;emojione&quot; alt=&quot;👋&quot; title=&quot;:wave:&quot; src=&quot;https://cdn.jsdelivr.net/emojione/assets/3.1/png/32/1f44b.png&quot;&gt; クロージング、記念撮影&lt;/h2&gt;
+&lt;p&gt;最後に、記念撮影をしました。&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/e1c53aff630de19c3c9e6cdf796e83a1/4ae3a/shot.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 40.54054054054054%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAIABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAME/8QAFAEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAABjUHIE//EABgQAAMBAQAAAAAAAAAAAAAAAAECAxIh/9oACAEBAAEFApVJCv1r6P8A/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGxAAAgEFAAAAAAAAAAAAAAAAACEBAhESIoH/2gAIAQEABj8C6Vylsy+J/8QAGxAAAgIDAQAAAAAAAAAAAAAAAREAITFBYaH/2gAIAQEAAT8hvmnQGY9q4X2eR6Xuf//aAAwDAQACAAMAAAAQCB//xAAWEQADAAAAAAAAAAAAAAAAAAAAARH/2gAIAQMBAT8QSpT/xAAVEQEBAAAAAAAAAAAAAAAAAAAQQf/aAAgBAgEBPxCn/8QAHBABAAEEAwAAAAAAAAAAAAAAAREAITFBkaGx/9oACAEBAAE/EHtkwcclxXVAsEkQKaecUMaLox6r/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;shot&quot;
+        title=&quot;shot&quot;
+        src=&quot;/static/e1c53aff630de19c3c9e6cdf796e83a1/1c72d/shot.jpg&quot;
+        srcset=&quot;/static/e1c53aff630de19c3c9e6cdf796e83a1/a80bd/shot.jpg 148w,
+/static/e1c53aff630de19c3c9e6cdf796e83a1/1c91a/shot.jpg 295w,
+/static/e1c53aff630de19c3c9e6cdf796e83a1/1c72d/shot.jpg 590w,
+/static/e1c53aff630de19c3c9e6cdf796e83a1/4ae3a/shot.jpg 616w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;1回目の道場でしたが、ニンジャもメンターも集まって、みんな楽しんでた様子で良かったです。&lt;/p&gt;
+&lt;p&gt;またきてねー &lt;img class=&quot;emojione&quot; alt=&quot;👋&quot; title=&quot;:wave:&quot; src=&quot;https://cdn.jsdelivr.net/emojione/assets/3.1/png/32/1f44b.png&quot;&gt; 来月も出来たらいいな &lt;img class=&quot;emojione&quot; alt=&quot;🤔&quot; title=&quot;:thinking:&quot; src=&quot;https://cdn.jsdelivr.net/emojione/assets/3.1/png/32/1f914.png&quot;&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[プログラミングでポケモンをうごかそう]]></title><description><![CDATA[Pokemon WS logo CoderDojo Japanのプレスリリースにもありますとおり、全国のCoderDojoでポケモンのキャラクターを使ったワークショップが出来るようになりました。 プログラミングでポケモンを動かすワークショップが、全国のCoderDojoで実施可能に。 | CoderDojo Japan…]]></description><link>https://coderdojo-higashi-sumiyoshi.github.io/2021-05-01_pokemon-ws/</link><guid isPermaLink="false">https://coderdojo-higashi-sumiyoshi.github.io/2021-05-01_pokemon-ws/</guid><pubDate>Sat, 01 May 2021 14:58:17 GMT</pubDate><content:encoded>&lt;p&gt;&lt;img src=&quot;/assets/images/pokemon/Pokemon_WS_logo.png&quot; alt=&quot;Pokemon WS logo&quot;&gt;&lt;/p&gt;
 &lt;p&gt;CoderDojo Japanのプレスリリースにもありますとおり、全国のCoderDojoでポケモンのキャラクターを使ったワークショップが出来るようになりました。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https://news.coderdojo.jp/2021/04/23/programming-with-pokemon/&quot;&gt;プログラミングでポケモンを動かすワークショップが、全国のCoderDojoで実施可能に。 | CoderDojo Japan&lt;/a&gt;&lt;/li&gt;
