@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[CoderDojo 東住吉]]></title><description><![CDATA[子どものプログラミング道場]]></description><link>https://cd-hisumi.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 23 May 2021 00:49:01 GMT</lastBuildDate><item><title><![CDATA[CoderDojo 東住吉 1回目 [オンライン開催]]]></title><description><![CDATA[【オンライン開催】プログラミングで遊ぼう！ CoderDojo 東住吉 1回目 2名のメンター 3名のニンジャ が来てくれました  CoderDojo 東住吉の初めての道場になります。また今回は、Zoomを使ってオンライン開催の道場となりました。  当日のスケジュール 時間 内容 13:30 ~ 13:4…]]></description><link>https://cd-hisumi.github.io/posts/2021-05-15_coderdojo-01-online/</link><guid isPermaLink="false">https://cd-hisumi.github.io/posts/2021-05-15_coderdojo-01-online/</guid><pubDate>Sun, 16 May 2021 04:30:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://cd-hisumi.doorkeeper.jp/events/121104&quot;&gt;【オンライン開催】プログラミングで遊ぼう！ CoderDojo 東住吉 1回目&lt;/a&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[CoderDojo 東住吉]]></title><description><![CDATA[子どものプログラミング道場]]></description><link>https://cd-hisumi.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 23 May 2021 03:07:52 GMT</lastBuildDate><item><title><![CDATA[CoderDojo 東住吉 1回目 [オンライン開催]]]></title><description><![CDATA[【オンライン開催】プログラミングで遊ぼう！ CoderDojo 東住吉 1回目 2名のメンター 3名のニンジャ が来てくれました  CoderDojo 東住吉の初めての道場になります。また今回は、Zoomを使ってオンライン開催の道場となりました。  当日のスケジュール 時間 内容 13:30 ~ 13:4…]]></description><link>https://cd-hisumi.github.io/posts/2021-05-15_coderdojo-01-online/</link><guid isPermaLink="false">https://cd-hisumi.github.io/posts/2021-05-15_coderdojo-01-online/</guid><pubDate>Sun, 16 May 2021 04:30:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://cd-hisumi.doorkeeper.jp/events/121104&quot;&gt;【オンライン開催】プログラミングで遊ぼう！ CoderDojo 東住吉 1回目&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;code&gt;2&lt;/code&gt;名の&lt;strong&gt;メンター&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;3&lt;/code&gt;名の&lt;strong&gt;ニンジャ&lt;/strong&gt;&lt;/li&gt;
@@ -390,15 +390,13 @@ Discord
     &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;下記を参考に、使いたい方を選んで下さい。&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&quot;○○○ ダウンロード&quot;&lt;/p&gt;
+&lt;li&gt;&quot;○○○ ダウンロード&quot;
 &lt;ul&gt;
 &lt;li&gt;Discord専用アプリをインストールします。&lt;/li&gt;
 &lt;li&gt;スマートフォンやタブレットの方はこちらを選択して下さい。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&quot;Discordをブラウザで開く&quot;&lt;/p&gt;
+&lt;li&gt;&quot;Discordをブラウザで開く&quot;
 &lt;ul&gt;
 &lt;li&gt;このページを見てるアプリ(Chrome, Edge, SafariならOK)の中でDiscordを使います。&lt;/li&gt;
 &lt;li&gt;アプリをインストールしたくない場合はこちらを選択して下さい。&lt;/li&gt;
@@ -457,8 +455,7 @@ Discord
 13才未満のお子さんは、必ず&lt;strong&gt;保護者の方が利用するアカウント&lt;/strong&gt;を作成して下さい。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;メールアドレス&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;ユーザー名&lt;/p&gt;
+&lt;li&gt;ユーザー名
 &lt;ul&gt;
 &lt;li&gt;好きな名前を入れて下さい。後で変更も出来ます。&lt;/li&gt;
 &lt;/ul&gt;

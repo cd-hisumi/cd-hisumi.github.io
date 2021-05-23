@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
-Sitemap: https://cd-hisumi.github.io/sitemap.xml
+Sitemap: https://cd-hisumi.github.io/sitemap/sitemap-index.xml
 Host: https://cd-hisumi.github.io
